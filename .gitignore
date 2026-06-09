@@ -1,5 +1,5 @@
 # Omit game files with potentially identifying information
-*.txt
+completed-files/*.txt
 
 # Prerequisites
 *.d
