@@ -1,3 +1,6 @@
+# Omit game files with potentially identifying information
+*.txt
+
 # Prerequisites
 *.d
 
