@@ -1,0 +1,317 @@
+☆NTDASTREA and ☆aeesaepeee joined
+Format:
+[Gen 9 Champions] Custom Game
+NTDASTREA's team:
+Absol / Azumarill / Starmie / Ninetales-Alola / Arcanine / Slowbro-Galar
+aeesaepeee's team:
+Slowking / Clefable / Incineroar / Mamoswine / Kingambit / Mimikyu
+
+Battle started between NTDASTREA and aeesaepeee!
+
+Go! Ninetales (Ninetales-Alola)!
+
+aeesaepeee sent out Mamoswine!
+[Ninetales's Snow Warning]
+It started to snow!
+
+Turn 1
+
+Ninetales used Aurora Veil!
+Aurora Veil made your team stronger against physical and special moves!
+
+The opposing Mamoswine used Stealth Rock!
+Pointed stones float in the air around your team!
+
+(The snow is falling down.)
+
+Turn 2
+
+Ninetales used Psyshock!
+(The opposing Mamoswine lost 13.4% of its health!)
+
+The opposing Mamoswine used Earthquake!
+[DEBUG] Aurora Veil weaken.
+(Ninetales lost 28.2% of its health!)
+
+(The snow is falling down.)
+
+Turn 3
+
+aeesaepeee withdrew Mamoswine!
+aeesaepeee sent out Slowking!
+
+Ninetales used Moonblast!
+(The opposing Slowking lost 36.1% of its health!)
+
+(The snow is falling down.)
+The opposing Slowking restored a little HP using its Leftovers!
+
+Turn 4
+
+Ninetales used Moonblast!
+(The opposing Slowking lost 35.6% of its health!)
+
+The opposing Slowking used Trick Room!
+The opposing Slowking twisted the dimensions!
+
+(The snow is falling down.)
+The opposing Slowking restored a little HP using its Leftovers!
+
+Turn 5
+[DEBUG] priority charge callback: chillyreception.
+
+The opposing Slowking is preparing to tell a chillingly bad joke!
+The opposing Slowking used Chilly Reception!
+
+aeesaepeee withdrew Slowking!
+aeesaepeee sent out Mamoswine!
+
+Ninetales used Moonblast!
+(The opposing Mamoswine lost 55.8% of its health!)
+
+The snow stopped.
+Your team's Aurora Veil wore off!
+
+Turn 6
+
+The opposing Mamoswine used Stone Edge!
+It's super effective!
+(Ninetales lost 71.8% of its health!)
+
+Ninetales fainted!
+
+Go! Azumarill!
+Pointed stones dug into Azumarill!
+
+Turn 7
+
+aeesaepeee withdrew Mamoswine!
+aeesaepeee sent out Slowking!
+
+Azumarill used Belly Drum!
+(Azumarill lost 50% of its health!)
+Azumarill cut its own HP and maximized its Attack!
+(Azumarill ate its Sitrus Berry!)
+Azumarill restored HP using its Sitrus Berry!
+
+The opposing Slowking restored a little HP using its Leftovers!
+
+Turn 8
+
+The opposing Slowking used Future Sight!
+The opposing Slowking foresaw an attack!
+
+Azumarill used Play Rough!
+(The opposing Slowking lost 79.2% of its health!)
+
+The opposing Slowking fainted!
+
+The twisted dimensions returned to normal!
+
+aeesaepeee sent out Mimikyu!
+
+Turn 9
+
+Azumarill used Aqua Jet!
+[The opposing Mimikyu's Disguise]
+Its disguise served it as a decoy!
+(The opposing Mimikyu lost 0% of its health!)
+The opposing Mimikyu's disguise was busted!
+(The opposing Mimikyu was hurt!)
+
+The opposing Mimikyu used Trick Room!
+The opposing Mimikyu twisted the dimensions!
+
+Turn 10
+
+Azumarill used Liquidation!
+(The opposing Mimikyu lost 87.7% of its health!)
+
+The opposing Mimikyu fainted!
+
+Azumarill took the Future Sight attack!
+(Azumarill lost 43.1% of its health!)
+
+aeesaepeee sent out Kingambit!
+[The opposing Kingambit's Supreme Overlord]
+The opposing Kingambit gained strength from the fallen!
+
+Turn 11
+
+Azumarill used Aqua Jet!
+(The opposing Kingambit lost 77.3% of its health!)
+
+The opposing Kingambit used Iron Head!
+[DEBUG] Supreme Overlord boost: 4915/4096.
+(Azumarill lost 19.6% of its health!)
+
+Azumarill fainted!
+
+Go! Slowbro (Slowbro-Galar)!
+Pointed stones dug into Slowbro!
+
+Turn 12
+
+Slowbro can act faster than normal, thanks to its Quick Claw!
+
+Slowbro used Drain Punch!
+It's extremely effective!
+(The opposing Kingambit lost 22.7% of its health!)
+The opposing Kingambit had its energy drained!
+
+The opposing Kingambit fainted!
+
+aeesaepeee sent out Incineroar!
+[The opposing Incineroar's Intimidate]
+Slowbro's Attack fell!
+
+Turn 13
+
+Slowbro used Iron Defense!
+Slowbro's Defense rose sharply!
+
+The opposing Incineroar used Darkest Lariat!
+[DEBUG] Negating (sp)def boost/penalty..
+It's super effective!
+(Slowbro lost 45.5% of its health!)
+
+The twisted dimensions returned to normal!
+
+Turn 14
+
+Slowbro can act faster than normal, thanks to its Quick Claw!
+
+Slowbro used Drain Punch!
+It's super effective!
+(The opposing Incineroar lost 16.8% of its health!)
+The opposing Incineroar had its energy drained!
+
+The opposing Incineroar used Darkest Lariat!
+[DEBUG] Negating (sp)def boost/penalty..
+It's super effective!
+(Slowbro lost 48.5% of its health!)
+
+Turn 15
+
+The opposing Incineroar used Darkest Lariat!
+[DEBUG] Negating (sp)def boost/penalty..
+It's super effective!
+(Slowbro lost 13.9% of its health!)
+
+Slowbro fainted!
+
+Go! Starmie!
+Pointed stones dug into Starmie!
+
+Turn 16
+
+Starmie used Scald!
+It's super effective!
+(The opposing Incineroar lost 77.2% of its health!)
+(The opposing Incineroar ate its Sitrus Berry!)
+The opposing Incineroar restored HP using its Sitrus Berry!
+
+The opposing Incineroar used Darkest Lariat!
+[DEBUG] Negating (sp)def boost/penalty..
+It's super effective!
+(Starmie lost 88.1% of its health!)
+
+Starmie fainted!
+
+Go! Absol!
+Pointed stones dug into Absol!
+
+Turn 17
+
+aeesaepeee withdrew Incineroar!
+aeesaepeee sent out Clefable!
+
+Absol's Absolite is reacting to the Key Stone!
+Absol has Mega Evolved into Mega Absol!
+
+Absol used Play Rough!
+(The opposing Clefable lost 41.6% of its health!)
+The opposing Clefable's Attack fell!
+
+Turn 18
+
+Absol, come back!
+Go! Arcanine!
+Pointed stones dug into Arcanine!
+
+The opposing Clefable's Clefablite is reacting to the Key Stone!
+The opposing Clefable has Mega Evolved into Mega Clefable!
+
+The opposing Clefable used Thunder Wave!
+Arcanine is paralyzed! It may be unable to move!
+
+Arcanine restored a little HP using its Leftovers!
+
+Turn 19
+
+The opposing Clefable used Moonlight!
+The opposing Clefable had its HP restored.
+
+Arcanine used Wild Charge!
+It's super effective!
+(The opposing Clefable lost 50.5% of its health!)
+Arcanine was damaged by the recoil!
+
+Arcanine restored a little HP using its Leftovers!
+
+Turn 20
+
+The opposing Clefable used Moonlight!
+The opposing Clefable had its HP restored.
+
+Arcanine is paralyzed! It can't move!
+
+Arcanine restored a little HP using its Leftovers!
+
+Turn 21
+
+The opposing Clefable used Moonblast!
+It's not very effective...
+(Arcanine lost 31.5% of its health!)
+
+Arcanine used Flare Blitz!
+(The opposing Clefable lost 49.0% of its health!)
+Arcanine was damaged by the recoil!
+
+Arcanine restored a little HP using its Leftovers!
+
+Turn 22
+
+The opposing Clefable used Moonlight!
+The opposing Clefable had its HP restored.
+
+Arcanine used Flare Blitz!
+(The opposing Clefable lost 53.5% of its health!)
+Arcanine was damaged by the recoil!
+
+Arcanine restored a little HP using its Leftovers!
+
+Turn 23
+
+The opposing Clefable used Moonblast!
+It's not very effective...
+(Arcanine lost 21.3% of its health!)
+
+Arcanine fainted!
+
+Go! Absol (Absol-Mega)!
+Pointed stones dug into Absol!
+
+Turn 24
+
+Absol used Play Rough!
+(The opposing Clefable lost 33.7% of its health!)
+
+The opposing Clefable used Moonblast!
+It's super effective!
+(Absol lost 75.7% of its health!)
+
+Absol fainted!
+
+aeesaepeee won the battle!
+☆NTDASTREA left

@@ -1,0 +1,258 @@
+☆Chris Boshawott and ☆NTDASTREA joined
+Format:
+[Gen 9 Champions] Custom Game
+Chris Boshawott's team:
+Delphox / Toxapex / Krookodile / Hydreigon / Rotom-Wash / Forretress
+NTDASTREA's team:
+Arcanine-Hisui / Beedrill / Ninetales-Alola / Slowbro-Galar / Azumarill / Starmie
+
+Battle started between Chris Boshawott and NTDASTREA!
+
+Go! Delphox!
+
+NTDASTREA sent out Azumarill!
+
+Turn 1
+
+Delphox, come back!
+Go! Toxapex!
+
+The opposing Azumarill used Liquidation!
+It's not very effective...
+(Toxapex lost 15.9% of its health!)
+
+Toxapex restored a little HP using its Leftovers!
+
+Turn 2
+
+NTDASTREA withdrew Azumarill!
+NTDASTREA sent out Slowbro (Slowbro-Galar)!
+
+Toxapex used Toxic!
+[DEBUG] natural status immunity.
+[DEBUG] immune to status.
+It doesn't affect the opposing Slowbro...
+[DEBUG] move failed because it did nothing.
+
+Toxapex restored a little HP using its Leftovers!
+
+Turn 3
+
+Toxapex, come back!
+Go! Hydreigon!
+
+The opposing Slowbro used Shell Side Arm!
+(Hydreigon lost 48.5% of its health!)
+(Special Shell Side Arm)
+Hydreigon was poisoned!
+
+Hydreigon was hurt by poison!
+
+Turn 4
+
+Hydreigon used Dark Pulse!
+It's super effective!
+(The opposing Slowbro lost 100% of its health!)
+
+The opposing Slowbro fainted!
+
+Hydreigon was hurt by poison!
+
+NTDASTREA sent out Ninetales (Ninetales-Alola)!
+[The opposing Ninetales's Snow Warning]
+It started to snow!
+
+Turn 5
+☆Chris Boshawott: you degen gambler
+
+Hydreigon, come back!
+Go! Delphox!
+
+The opposing Ninetales used Aurora Veil!
+Aurora Veil made the opposing team stronger against physical and special moves!
+
+(The snow is falling down.)
+
+Turn 6
+
+Delphox's Delphoxite is reacting to the Key Stone!
+Delphox has Mega Evolved into Mega Delphox!
+
+Delphox used Flamethrower!
+It's super effective!
+[DEBUG] Aurora Veil weaken.
+(The opposing Ninetales lost 63.1% of its health!)
+
+The opposing Ninetales used Dark Pulse!
+It's super effective!
+(Delphox lost 38.2% of its health!)
+
+(The snow is falling down.)
+
+Turn 7
+
+Delphox used Flamethrower!
+It's super effective!
+[DEBUG] Aurora Veil weaken.
+(The opposing Ninetales lost 36.9% of its health!)
+
+The opposing Ninetales fainted!
+
+(The snow is falling down.)
+
+NTDASTREA sent out Beedrill!
+
+Turn 8
+
+Delphox, come back!
+Go! Forretress!
+
+The opposing Beedrill's Beedrillite is reacting to the Key Stone!
+The opposing Beedrill has Mega Evolved into Mega Beedrill!
+
+The opposing Beedrill used U-turn!
+It's not very effective...
+(Forretress lost 14.3% of its health!)
+
+The opposing Beedrill went back to NTDASTREA!
+NTDASTREA sent out Starmie!
+
+(The snow is falling down.)
+
+Turn 9
+
+Forretress, come back!
+Go! Rotom (Rotom-Wash)!
+
+The opposing Starmie used Scald!
+[DEBUG] Analytic boost.
+It's not very effective...
+(Rotom lost 19.1% of its health!)
+
+The snow stopped.
+The opposing team's Aurora Veil wore off!
+
+Turn 10
+
+The opposing Starmie used Psychic!
+(Rotom lost 29.3% of its health!)
+
+Rotom used Volt Switch!
+It's super effective!
+(The opposing Starmie lost 80% of its health!)
+
+Rotom went back to Chris Boshawott!
+Go! Delphox (Delphox-Mega)!
+
+Turn 11
+☆NTDASTREA: always gamble
+
+Delphox used Flamethrower!
+It's not very effective...
+(The opposing Starmie lost 20% of its health!)
+
+The opposing Starmie fainted!
+
+NTDASTREA sent out Beedrill (Beedrill-Mega)!
+
+Turn 12
+
+Delphox, come back!
+Go! Forretress!
+
+The opposing Beedrill used Poison Jab!
+It doesn't affect Forretress...
+
+Turn 13
+
+The opposing Beedrill used U-turn!
+It's not very effective...
+(Forretress lost 16.5% of its health!)
+
+The opposing Beedrill went back to NTDASTREA!
+NTDASTREA sent out Arcanine (Arcanine-Hisui)!
+
+Forretress used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+
+Turn 14
+
+The opposing Arcanine used Flare Blitz!
+It's extremely effective!
+(Forretress lost 69.2% of its health!)
+
+Forretress fainted!
+[DEBUG] damage event failed.
+
+Go! Krookodile!
+
+Turn 15
+
+Krookodile used Earthquake!
+It's extremely effective!
+(The opposing Arcanine ate its Shuca Berry!)
+[DEBUG] -50% reduction.
+The Shuca Berry weakened the damage to the opposing Arcanine!
+(The opposing Arcanine lost 100% of its health!)
+
+The opposing Arcanine fainted!
+[Krookodile's Moxie]
+Krookodile's Attack rose!
+
+NTDASTREA sent out Azumarill!
+Pointed stones dug into the opposing Azumarill!
+
+Turn 16
+
+Krookodile used Earthquake!
+(The opposing Azumarill lost 72.1% of its health!)
+(The opposing Azumarill ate its Sitrus Berry!)
+The opposing Azumarill restored HP using its Sitrus Berry!
+
+The opposing Azumarill used Liquidation!
+It's super effective!
+Krookodile hung on using its Focus Sash!
+(Krookodile lost 99.4% of its health!)
+
+Turn 17
+
+The opposing Azumarill used Aqua Jet!
+It's super effective!
+(Krookodile lost 0.6% of its health!)
+
+Krookodile fainted!
+
+Go! Rotom (Rotom-Wash)!
+
+Turn 18
+
+The opposing Azumarill used Aqua Jet!
+It's not very effective...
+(Rotom lost 13.4% of its health!)
+
+Rotom used Volt Switch!
+It's super effective!
+(The opposing Azumarill lost 40.7% of its health!)
+
+The opposing Azumarill fainted!
+☆NTDASTREA: well gg
+
+Rotom went back to Chris Boshawott!
+Go! Hydreigon!
+
+Hydreigon was hurt by poison!
+☆Chris Boshawott: ggs
+
+NTDASTREA sent out Beedrill (Beedrill-Mega)!
+Pointed stones dug into the opposing Beedrill!
+
+Turn 19
+
+Hydreigon used Flamethrower!
+It's super effective!
+(The opposing Beedrill lost 75.2% of its health!)
+
+The opposing Beedrill fainted!
+
+Chris Boshawott won the battle!
+☆Chris Boshawott: i'll handle the replays

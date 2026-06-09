@@ -1,0 +1,360 @@
+☆Insinir and ☆Chris Boshawott joined
+Format:
+[Gen 9 Champions] OU
+Endless Battle Clause: Forcing endless battles is banned
+Species Clause: Limit one of each Pokémon
+Item Clause: Limit 1 of each item
+Sleep Moves Clause: Sleep-inducing moves are banned
+OHKO Clause: OHKO moves are banned
+Evasion Clause: Evasion abilities, items, and moves are banned
+Evasion Abilities Clause: Evasion abilities are banned
+Evasion Items Clause: Evasion items are banned
+Evasion Moves Clause: Evasion moves are banned
+Insinir's team:
+Primarina / Aegislash / Archaludon / Hawlucha / Charizard / Whimsicott
+Chris Boshawott's team:
+Rotom-Wash / Hydreigon / Delphox / Weavile / Talonflame / Toxapex
+
+Battle started between Insinir and Chris Boshawott!
+
+Go! Archaludon!
+
+Chris Boshawott sent out Weavile!
+[The opposing Weavile's Pressure]
+The opposing Weavile is exerting its pressure!
+
+Turn 1
+
+Chris Boshawott withdrew Weavile!
+Chris Boshawott sent out Toxapex!
+
+Archaludon, come back!
+Go! Aegislash!
+
+Turn 2
+
+Aegislash used Swords Dance!
+Aegislash's Attack rose sharply!
+
+The opposing Toxapex used Chilling Water!
+(Aegislash lost 9% of its health!)
+Aegislash's Attack fell!
+
+Turn 3
+
+Aegislash used Swords Dance!
+Aegislash's Attack rose sharply!
+
+The opposing Toxapex used Chilling Water!
+(Aegislash lost 9% of its health!)
+Aegislash's Attack fell!
+
+Turn 4
+
+Chris Boshawott withdrew Toxapex!
+Chris Boshawott sent out Talonflame!
+
+Aegislash used Swords Dance!
+Aegislash's Attack rose sharply!
+
+Turn 5
+
+Aegislash used King's Shield!
+Aegislash protected itself!
+
+The opposing Talonflame used Will-O-Wisp!
+Aegislash was burned!
+
+Aegislash was hurt by its burn!
+
+Turn 6
+
+The opposing Talonflame used U-turn!
+It's mostly ineffective...
+(Aegislash lost 3% of its health!)
+
+The opposing Talonflame went back to Chris Boshawott!
+Chris Boshawott sent out Hydreigon!
+
+Aegislash used Swords Dance!
+Aegislash's Attack rose sharply!
+
+Aegislash was hurt by its burn!
+
+Turn 7
+
+The opposing Hydreigon used Dark Pulse!
+It's super effective!
+(Aegislash lost 67% of its health!)
+
+Aegislash fainted!
+
+Go! Hawlucha!
+
+Turn 8
+
+Hawlucha used Swords Dance!
+Hawlucha's Attack rose sharply!
+
+The opposing Hydreigon used U-turn!
+It's mostly ineffective...
+(Hawlucha lost 6% of its health!)
+
+The opposing Hydreigon went back to Chris Boshawott!
+Chris Boshawott sent out Delphox!
+
+Turn 9
+
+Hawlucha, come back!
+Go! Whimsicott!
+
+The opposing Delphox's Delphoxite is reacting to the Key Stone!
+The opposing Delphox has Mega Evolved into Mega Delphox!
+
+The opposing Delphox used Psyshock!
+(Whimsicott lost 44% of its health!)
+
+Turn 10
+
+Chris Boshawott withdrew Delphox!
+Chris Boshawott sent out Weavile!
+[The opposing Weavile's Pressure]
+The opposing Weavile is exerting its pressure!
+
+Whimsicott used Tailwind!
+The Tailwind blew from behind your team!
+
+Turn 11
+
+Whimsicott used Taunt!
+(Since gen 7, Dark is immune to Prankster moves.)
+It doesn't affect the opposing Weavile...
+
+The opposing Weavile used Ice Shard!
+It's super effective!
+(Whimsicott lost 41% of its health!)
+
+Turn 12
+
+Whimsicott used Leech Seed!
+(Since gen 7, Dark is immune to Prankster moves.)
+It doesn't affect the opposing Weavile...
+
+The opposing Weavile used Ice Shard!
+It's super effective!
+(Whimsicott lost 15% of its health!)
+
+Whimsicott fainted!
+
+Go! Primarina!
+
+Turn 13
+
+Chris Boshawott withdrew Weavile!
+Chris Boshawott sent out Toxapex!
+
+Primarina used Calm Mind!
+Primarina's Sp. Atk rose!
+Primarina's Sp. Def rose!
+
+Your team's Tailwind petered out!
+
+Turn 14
+
+Primarina, come back!
+Go! Archaludon!
+
+The opposing Toxapex used Toxic!
+It doesn't affect Archaludon...
+
+Turn 15
+
+Chris Boshawott withdrew Toxapex!
+Chris Boshawott sent out Delphox (Delphox-Mega)!
+
+Archaludon used Stealth Rock!
+Pointed stones float in the air around the opposing team!
+
+Turn 16
+
+The opposing Delphox used Flamethrower!
+(Archaludon lost 87% of its health!)
+[Archaludon's Stamina]
+Archaludon's Defense rose!
+(Archaludon ate its Sitrus Berry!)
+Archaludon restored HP using its Sitrus Berry!
+
+Archaludon used Dark Pulse!
+It's super effective!
+(The opposing Delphox lost 52% of its health!)
+
+Turn 17
+
+The opposing Delphox used Flamethrower!
+(Archaludon lost 37% of its health!)
+
+Archaludon fainted!
+
+Go! Primarina!
+
+Turn 18
+
+The opposing Delphox used Psyshock!
+(Primarina lost 64% of its health!)
+
+Primarina used Calm Mind!
+Primarina's Sp. Atk rose!
+Primarina's Sp. Def rose!
+
+Primarina restored a little HP using its Leftovers!
+
+Turn 19
+
+Primarina, come back!
+Go! Hawlucha!
+
+The opposing Delphox used Psyshock!
+It's super effective!
+(Hawlucha lost 94% of its health!)
+
+Hawlucha fainted!
+
+Go! Charizard!
+
+Turn 20
+
+Charizard's Charizardite X is reacting to the Key Stone!
+Charizard has Mega Evolved into Mega Charizard!
+
+The opposing Delphox used Psyshock!
+(Charizard lost 53% of its health!)
+
+Charizard used Dragon Dance!
+Charizard's Attack rose!
+Charizard's Speed rose!
+
+Turn 21
+
+Charizard used Dragon Claw!
+(The opposing Delphox lost 48% of its health!)
+
+The opposing Delphox fainted!
+
+Chris Boshawott sent out Weavile!
+Pointed stones dug into the opposing Weavile!
+[The opposing Weavile's Pressure]
+The opposing Weavile is exerting its pressure!
+
+Turn 22
+
+The opposing Weavile used Fake Out!
+(Charizard lost 15% of its health!)
+
+Charizard flinched and couldn't move!
+
+Turn 23
+
+The opposing Weavile used Ice Shard!
+(Charizard lost 23% of its health!)
+
+Charizard used Dragon Claw!
+(The opposing Weavile lost 75% of its health!)
+
+The opposing Weavile fainted!
+
+Chris Boshawott sent out Rotom (Rotom-Wash)!
+Pointed stones dug into the opposing Rotom!
+
+Turn 24
+
+Charizard used Dragon Claw!
+(The opposing Rotom lost 65% of its health!)
+
+The opposing Rotom used Volt Switch!
+It's not very effective...
+(Charizard lost 9% of its health!)
+
+Charizard fainted!
+
+The opposing Rotom went back to Chris Boshawott!
+Chris Boshawott sent out Toxapex!
+Pointed stones dug into the opposing Toxapex!
+
+The opposing Toxapex restored a little HP using its Leftovers!
+
+Go! Primarina!
+
+Turn 25
+
+Primarina used Surf!
+It's not very effective...
+(The opposing Toxapex lost 13% of its health!)
+
+The opposing Toxapex used Toxic!
+Primarina was badly poisoned!
+
+Primarina restored a little HP using its Leftovers!
+The opposing Toxapex restored a little HP using its Leftovers!
+Primarina was hurt by poison!
+
+Turn 26
+
+Primarina used Calm Mind!
+Primarina's Sp. Atk rose!
+Primarina's Sp. Def rose!
+
+The opposing Toxapex used Chilling Water!
+It's not very effective...
+(Primarina lost 2% of its health!)
+Primarina's Attack fell!
+
+Primarina restored a little HP using its Leftovers!
+The opposing Toxapex restored a little HP using its Leftovers!
+Primarina was hurt by poison!
+
+Turn 27
+
+Primarina used Calm Mind!
+Primarina's Sp. Atk rose!
+Primarina's Sp. Def rose!
+
+The opposing Toxapex used Chilling Water!
+It's not very effective...
+(Primarina lost 2% of its health!)
+Primarina's Attack fell!
+
+Primarina restored a little HP using its Leftovers!
+The opposing Toxapex restored a little HP using its Leftovers!
+Primarina was hurt by poison!
+
+Turn 28
+
+Primarina used Calm Mind!
+Primarina's Sp. Atk rose!
+Primarina's Sp. Def rose!
+
+The opposing Toxapex used Recover!
+The opposing Toxapex had its HP restored.
+
+Primarina restored a little HP using its Leftovers!
+Primarina was hurt by poison!
+
+Turn 29
+
+Primarina used Draining Kiss!
+It's not very effective...
+(The opposing Toxapex lost 22% of its health!)
+The opposing Toxapex had its energy drained!
+
+The opposing Toxapex used Chilling Water!
+It's not very effective...
+(Primarina lost 2% of its health!)
+Primarina's Attack fell!
+
+Primarina restored a little HP using its Leftovers!
+The opposing Toxapex restored a little HP using its Leftovers!
+Primarina was hurt by poison!
+
+Primarina fainted!
+
+Chris Boshawott won the battle!
