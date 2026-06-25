@@ -1,0 +1,1177 @@
+Pokemon	DraftRoundNo	PlayerName	DraftedByPlayer	OpponentName	RegRound	PlayoffRound	GameNumber	Lead	TurnsIn	MovesUsed	Kills	Move1	Move2	Move3	Move4
+Dragapult	1	A	A	Gr	5	None	1	TRUE	1	0	0				
+Excadrill	2	A	A	Gr	5	None	1	FALSE	5	4	0	['Iron Head', 3]	['Rapid Spin', 1]		
+Volcarona	3	A	A	Gr	5	None	1	FALSE	1	0	0				
+Gyarados	5	A	A	Gr	5	None	1	FALSE	6	5	1	['Iron Head', 2]	['Crunch', 2]	['Waterfall', 1]	
+Tyranitar	4	A	A	Gr	5	None	1	FALSE	4	1	1	['Knock Off', 1]			
+Umbreon	6	A	A	Gr	5	None	1	FALSE	31	28	2	['Foul Play', 11]	['Wish', 8]	['Toxic', 3]	['Protect', 6]
+Golurk	3	Gr	B	A	5	None	1	FALSE	5	2	1	['Drain Punch', 2]			
+Slowking-Galar	1	Gr	Gr	A	5	None	1	FALSE	15	12	0	['Trick Room', 3]	['Chilly Reception', 1]	['Sludge Bomb', 8]	
+Hatterene	3	Gr	Gr	A	5	None	1	FALSE	4	3	0	['Dazzling Gleam', 2]	['Healing Wish', 1]		
+Samurott-Hisui	4	Gr	Gr	A	5	None	1	TRUE	10	7	1	['Ceaseless Edge', 4]	['Aqua Cutter', 1]	['Sacred Sword', 2]	
+Tsareena	9	Gr	Gr	A	5	None	1	FALSE	9	7	4	['Knock Off', 3]	['Trop Kick', 4]		
+Skeledirge	8	Gr	Gr	A	5	None	1	FALSE	5	4	0	['Will-O-Wisp', 1]	['Torch Song', 2]	['Slack Off', 1]	
+Golurk	3	Gr	B	A	5	None	2	FALSE	5	4	3	['Drain Punch', 3]	['Poltergeist', 1]		
+Slowking-Galar	1	Gr	Gr	A	5	None	2	FALSE	6	5	0	['Trick Room', 2]	['Sludge Bomb', 3]		
+Hatterene	3	Gr	Gr	A	5	None	2	FALSE	3	3	2	['Trick Room', 1]	['Dazzling Gleam', 1]	['Healing Wish', 1]	
+Samurott-Hisui	4	Gr	Gr	A	5	None	2	FALSE	1	1	0	['Aqua Cutter', 1]			
+Tsareena	9	Gr	Gr	A	5	None	2	TRUE	5	3	0	['Trop Kick', 3]			
+Skeledirge	8	Gr	Gr	A	5	None	2	FALSE	11	9	2	['Torch Song', 3]	['Will-O-Wisp', 2]	['Slack Off', 3]	['Hex', 1]
+Dragapult	1	A	A	Gr	5	None	2	FALSE	3	2	0	['Shadow Ball', 2]			
+Excadrill	2	A	A	Gr	5	None	2	FALSE	4	3	1	['Swords Dance', 1]	['Earthquake', 2]		
+Volcarona	3	A	A	Gr	5	None	2	FALSE	3	2	0	['Flamethrower', 1]	['Giga Drain', 1]		
+Gyarados	5	A	A	Gr	5	None	2	FALSE	4	4	1	['Waterfall', 2]	['Crunch', 2]		
+Tyranitar	4	A	A	Gr	5	None	2	TRUE	6	5	0	['Thunder Wave', 1]	['Rock Slide', 4]		
+Umbreon	6	A	A	Gr	5	None	2	FALSE	11	11	2	['Toxic', 3]	['Foul Play', 6]	['Wish', 1]	['Protect', 1]
+Dragapult	1	A	A	S	1	None	1	TRUE	4	4	2	['U-turn', 1]	['Shadow Ball', 1]	['Draco Meteor', 2]	
+Excadrill	2	A	A	S	1	None	1	FALSE	3	2	0	['Earthquake', 2]			
+Volcarona	3	A	A	S	1	None	1	FALSE	4	4	3	['Quiver Dance', 1]	['Flamethrower', 2]	['Giga Drain', 1]	
+Gyarados	5	A	A	S	1	None	1	FALSE	3	2	1	['Dragon Dance', 1]	['Waterfall', 1]		
+Tyranitar	4	A	A	S	1	None	1	FALSE	2	1	0	['Stealth Rock', 1]			
+Umbreon	6	A	A	S	1	None	1	FALSE	6	3	1	['Wish', 2]	['Foul Play', 1]		
+Gardevoir	8	S	S	A	1	None	1	FALSE	9	7	3	['Aura Sphere', 5]	['Night Shade', 1]	['Future Sight', 1]	
+Dragonite	1	S	S	A	1	None	1	FALSE	1	0	0				
+Trevenant	9	S	S	A	1	None	1	FALSE	1	0	0				
+Feraligatr	3	S	S	A	1	None	1	FALSE	4	4	0	['Crunch', 1]	['Flip Turn', 1]	['Brick Break', 2]	
+Rhyperior	4	S	S	A	1	None	1	FALSE	4	2	0	['Avalanche', 1]	['Hydro Pump', 1]		
+Camerupt	5	S	S	A	1	None	1	TRUE	3	2	0	['Heavy Slam', 1]	['Stone Edge', 1]		
+Gardevoir	8	S	S	A	1	None	2	FALSE	2	1	0	['Night Shade', 1]			
+Dragonite	1	S	S	A	1	None	2	TRUE	2	1	0	['Blizzard', 1]			
+Trevenant	9	S	S	A	1	None	2	FALSE	6	3	0	['Drain Punch', 1]	['Leaf Storm', 2]		
+Feraligatr	3	S	S	A	1	None	2	FALSE	1	0	0				
+Rhyperior	4	S	S	A	1	None	2	FALSE	0	0	0				
+Camerupt	5	S	S	A	1	None	2	FALSE	2	1	1	['Stone Edge', 1]			
+Dragapult	1	A	A	S	1	None	2	TRUE	2	2	1	['Draco Meteor', 1]	['U-turn', 1]		
+Excadrill	2	A	A	S	1	None	2	FALSE	0	0	0				
+Volcarona	3	A	A	S	1	None	2	FALSE	3	3	1	['Quiver Dance', 1]	['Giga Drain', 2]		
+Gyarados	5	A	A	S	1	None	2	FALSE	6	6	4	['Waterfall', 3]	['Dragon Dance', 1]	['Iron Head', 2]	
+Tyranitar	4	A	A	S	1	None	2	FALSE	2	1	0	['Stealth Rock', 1]			
+Umbreon	6	A	A	S	1	None	2	FALSE	0	0	0				
+Primarina	6	B	B	A	3	None	1	FALSE	2	1	1	['Surf', 1]			
+Aegislash	2	B	B	A	3	None	1	FALSE	4	2	1	['Shadow Ball', 1]	["King's Shield", 1]		
+Archaludon	5	B	B	A	3	None	1	FALSE	5	3	0	['Stealth Rock', 1]	['Flash Cannon', 2]		
+Hawlucha	8	B	B	A	3	None	1	FALSE	4	3	2	['Close Combat', 2]	['Acrobatics', 1]		
+Charizard	1	B	B	A	3	None	1	FALSE	6	6	2	['Swords Dance', 2]	['Earthquake', 1]	['Dragon Claw', 3]	
+Whimsicott	7	B	B	A	3	None	1	TRUE	2	2	0	['Stun Spore', 1]	['Leech Seed', 1]		
+Dragapult	1	A	A	B	3	None	1	TRUE	4	3	1	['Fire Blast', 1]	['U-turn', 1]	['Draco Meteor', 1]	
+Excadrill	2	A	A	B	3	None	1	FALSE	8	7	2	['Earthquake', 6]	['Rapid Spin', 1]		
+Volcarona	3	A	A	B	3	None	1	FALSE	3	2	0	['Flamethrower', 2]			
+Gyarados	5	A	A	B	3	None	1	FALSE	2	0	0				
+Tyranitar	4	A	A	B	3	None	1	FALSE	1	0	0				
+Umbreon	6	A	A	B	3	None	1	FALSE	5	3	2	['Wish', 1]	['Protect', 1]	['Foul Play', 1]	
+Primarina	6	B	B	A	3	None	2	FALSE	11	10	4	['Calm Mind', 4]	['Draining Kiss', 5]	['Surf', 1]	
+Aegislash	2	B	B	A	3	None	2	FALSE	0	0	0				
+Archaludon	5	B	B	A	3	None	2	FALSE	4	2	0	['Stealth Rock', 1]	['Thunderbolt', 1]		
+Hawlucha	8	B	B	A	3	None	2	FALSE	5	5	2	['Close Combat', 4]	['Swords Dance', 1]		
+Charizard	1	B	B	A	3	None	2	FALSE	2	1	0	['Swords Dance', 1]			
+Whimsicott	7	B	B	A	3	None	2	TRUE	3	3	0	['Stun Spore', 1]	['Leech Seed', 1]	['Moonblast', 1]	
+Dragapult	1	A	A	B	3	None	2	TRUE	5	3	1	['Fire Blast', 3]			
+Excadrill	2	A	A	B	3	None	2	FALSE	6	4	0	['Iron Head', 1]	['Earthquake', 2]	['Swords Dance', 1]	
+Volcarona	3	A	A	B	3	None	2	FALSE	1	1	0	['Giga Drain', 1]			
+Gyarados	5	A	A	B	3	None	2	FALSE	3	1	0	['Waterfall', 1]			
+Tyranitar	4	A	A	B	3	None	2	FALSE	3	2	0	['Rock Slide', 2]			
+Umbreon	6	A	A	B	3	None	2	FALSE	7	7	1	['Wish', 1]	['Protect', 3]	['Foul Play', 2]	['Toxic', 1]
+Aegislash	2	B	B	J	2	None	1	FALSE	3	2	1	['Shadow Sneak', 1]	["King's Shield", 1]		
+Meganium	4	B	B	J	2	None	1	FALSE	4	1	1	['Weather Ball', 1]			
+Primarina	6	B	B	J	2	None	1	FALSE	4	3	0	['Calm Mind', 3]			
+Hawlucha	8	B	B	J	2	None	1	FALSE	3	3	2	['Close Combat', 1]	['Acrobatics', 1]	['Defog', 1]	
+Whimsicott	7	B	B	J	2	None	1	TRUE	6	5	0	['Leech Seed', 3]	['Encore', 1]	['Moonblast', 1]	
+Archaludon	5	B	B	J	2	None	1	FALSE	6	4	0	['Flash Cannon', 1]	['Dark Pulse', 1]	['Draco Meteor', 1]	['Stealth Rock', 1]
+Ceruledge	4	J	J	B	2	None	1	FALSE	4	2	2	['Bitter Blade', 2]			
+Empoleon	6	J	J	B	2	None	1	FALSE	2	2	0	['Surf', 1]	['Flip Turn', 1]		
+Alakazam	5	J	J	B	2	None	1	FALSE	2	1	1	['Psychic', 1]			
+Tyrantrum	7	J	J	B	2	None	1	FALSE	7	5	2	['Head Smash', 1]	['Earthquake', 4]		
+Tinkaton	9	J	J	B	2	None	1	TRUE	5	4	1	['Stealth Rock', 2]	['Play Rough', 1]	['Thunder Wave', 1]	
+Pidgeot	10	J	J	B	2	None	1	FALSE	6	5	0	['Heat Wave', 2]	['U-turn', 2]	['Roost', 1]	
+Aegislash	2	B	B	J	2	None	2	FALSE	3	2	2	['Shadow Sneak', 1]	['Close Combat', 1]		
+Meganium	4	B	B	J	2	None	2	FALSE	2	1	1	['Earth Power', 1]			
+Primarina	6	B	B	J	2	None	2	FALSE	8	7	2	['Calm Mind', 3]	['Surf', 2]	['Draining Kiss', 1]	['Ice Beam', 1]
+Hawlucha	8	B	B	J	2	None	2	FALSE	1	0	1				
+Whimsicott	7	B	B	J	2	None	2	FALSE	1	1	0	['Leech Seed', 1]			
+Archaludon	5	B	B	J	2	None	2	TRUE	5	3	1	['Draco Meteor', 2]	['Stealth Rock', 1]		
+Ceruledge	4	J	J	B	2	None	2	FALSE	2	2	0	['Bitter Blade', 1]	['Shadow Sneak', 1]		
+Empoleon	6	J	J	B	2	None	2	FALSE	4	3	0	['Surf', 1]	['Flip Turn', 1]	['Ice Beam', 1]	
+Alakazam	5	J	J	B	2	None	2	FALSE	4	2	1	['Psychic', 1]	['Focus Blast', 1]		
+Tyrantrum	7	J	J	B	2	None	2	FALSE	5	5	1	['Head Smash', 1]	['Outrage', 3]	['due to fatigue', 1]	
+Tinkaton	9	J	J	B	2	None	2	FALSE	2	2	0	['Stealth Rock', 1]	['Thunder Wave', 1]		
+Pidgeot	10	J	J	B	2	None	2	TRUE	3	3	1	['Heat Wave', 2]	['U-turn', 1]		
+Aegislash	2	B	B	J	2	None	3	FALSE	5	4	3	['Close Combat', 2]	['Shadow Sneak', 1]	["King's Shield", 1]	
+Meganium	4	B	B	J	2	None	3	FALSE	2	1	1	['Weather Ball', 1]			
+Primarina	6	B	B	J	2	None	3	FALSE	6	3	2	['Calm Mind', 1]	['Ice Beam', 1]	['Surf', 1]	
+Hawlucha	8	B	B	J	2	None	3	FALSE	0	0	0				
+Whimsicott	7	B	B	J	2	None	3	TRUE	10	10	0	['Leech Seed', 3]	['Encore', 4]	['U-turn', 3]	
+Archaludon	5	B	B	J	2	None	3	FALSE	4	1	0	['Dark Pulse', 1]			
+Ceruledge	4	J	J	B	2	None	3	FALSE	11	10	2	['Swords Dance', 2]	['Shadow Sneak', 6]	['Bitter Blade', 2]	
+Empoleon	6	J	J	B	2	None	3	FALSE	2	1	0	['Surf', 1]			
+Alakazam	5	J	J	B	2	None	3	TRUE	6	4	1	['Calm Mind', 3]	['Psychic', 1]		
+Tyrantrum	7	J	J	B	2	None	3	FALSE	4	3	0	['Outrage', 2]	['Earthquake', 1]		
+Tinkaton	9	J	J	B	2	None	3	FALSE	2	2	0	['Stealth Rock', 1]	['Thunder Wave', 1]		
+Pidgeot	10	J	J	B	2	None	3	FALSE	2	2	0	['Hurricane', 2]			
+Primarina	6	B	B	O	4	None	1	FALSE	4	2	1	['Calm Mind', 1]	['Surf', 1]		
+Aegislash	2	B	B	O	4	None	1	FALSE	2	2	0	["King's Shield", 1]	['Shadow Sneak', 1]		
+Archaludon	5	B	B	O	4	None	1	FALSE	2	2	0	['Stealth Rock', 1]	['Draco Meteor', 1]		
+Hawlucha	8	B	B	O	4	None	1	FALSE	1	1	0	['Defog', 1]			
+Charizard	1	B	B	O	4	None	1	FALSE	10	7	4	['Dragon Claw', 3]	['Swords Dance', 1]	['Earthquake', 3]	
+Whimsicott	7	B	B	O	4	None	1	TRUE	5	5	0	['Leech Seed', 3]	['Encore', 1]	['Stun Spore', 1]	
+Politoed	7	O	O	B	4	None	1	FALSE	0	0	0				
+Torkoal	8	O	O	B	4	None	1	FALSE	5	3	2	['Rapid Spin', 1]	['Flamethrower', 2]		
+Scovillain	5	O	O	B	4	None	1	FALSE	6	4	1	['Energy Ball', 2]	['Flamethrower', 2]		
+Jolteon	9	O	O	B	4	None	1	FALSE	7	6	3	['Quick Attack', 2]	['Thunder', 2]	['Calm Mind', 1]	['Volt Switch', 1]
+Aggron	1	O	O	B	4	None	1	FALSE	2	1	0	['Earthquake', 1]			
+Gliscor	6	O	O	B	4	None	1	TRUE	4	3	0	['Stealth Rock', 2]	['Knock Off', 1]		
+Primarina	6	B	B	O	4	None	2	FALSE	0	0	0				
+Aegislash	2	B	B	O	4	None	2	FALSE	0	0	0				
+Archaludon	5	B	B	O	4	None	2	FALSE	0	0	0				
+Hawlucha	8	B	B	O	4	None	2	TRUE	10	9	4	['Close Combat', 4]	['Swords Dance', 1]	['Acrobatics', 3]	['Defog', 1]
+Charizard	1	B	B	O	4	None	2	FALSE	3	3	2	['Flare Blitz', 1]	['Earthquake', 1]	['Dragon Claw', 1]	
+Whimsicott	7	B	B	O	4	None	2	FALSE	0	0	0				
+Politoed	7	O	O	B	4	None	2	FALSE	1	0	0				
+Torkoal	8	O	O	B	4	None	2	TRUE	3	2	0	['Stealth Rock', 1]	['Flamethrower', 1]		
+Scovillain	5	O	O	B	4	None	2	FALSE	1	0	0				
+Jolteon	9	O	O	B	4	None	2	FALSE	3	2	1	['Quick Attack', 1]	['Thunder', 1]		
+Aggron	1	O	O	B	4	None	2	FALSE	2	1	0	['Iron Defense', 1]			
+Gliscor	6	O	O	B	4	None	2	FALSE	3	2	0	['Spikes', 1]	['U-turn', 1]		
+Politoed	7	O	O	B	4	None	3	FALSE	3	2	0	['Weather Ball', 1]	['Psychic', 1]		
+Torkoal	8	O	O	B	4	None	3	FALSE	7	3	1	['Flamethrower', 1]	['Earth Power', 2]		
+Scovillain	5	O	O	B	4	None	3	FALSE	1	1	0	['Solar Beam', 1]			
+Jolteon	9	O	O	B	4	None	3	TRUE	2	2	0	['Volt Switch', 1]	['Thunder', 1]		
+Aggron	1	O	O	B	4	None	3	FALSE	2	1	0	['Heavy Slam', 1]			
+Gliscor	6	O	O	B	4	None	3	FALSE	1	1	0	['Knock Off', 1]			
+Primarina	6	B	B	O	4	None	3	FALSE	12	12	6	['Calm Mind', 5]	['Draining Kiss', 2]	['Surf', 5]	
+Aegislash	2	B	B	O	4	None	3	FALSE	0	0	0				
+Archaludon	5	B	B	O	4	None	3	FALSE	0	0	0				
+Hawlucha	8	B	B	O	4	None	3	FALSE	0	0	0				
+Charizard	1	B	B	O	4	None	3	FALSE	2	1	0	['Earthquake', 1]			
+Whimsicott	7	B	B	O	4	None	3	TRUE	2	2	0	['Leech Seed', 1]	['Stun Spore', 1]		
+Rotom-Wash	2	D	D	A	2	None	1	FALSE	6	5	0	['Hydro Pump', 2]	['Volt Switch', 3]		
+Toxapex	6	D	D	A	2	None	1	FALSE	5	5	2	['Chilling Water', 2]	['Toxic', 1]	['Haze', 1]	['Recover', 1]
+Floette-Eternal	4	D	D	A	2	None	1	TRUE	12	11	2	['Moonblast', 5]	['Trailblaze', 2]	['Chilling Water', 4]	
+Krookodile	7	D	D	A	2	None	1	FALSE	0	0	0				
+Morpeko	10	D	D	A	2	None	1	FALSE	3	2	0	['Rapid Spin', 1]	['Stealth Rock', 1]		
+Hydreigon	3	D	D	A	2	None	1	FALSE	7	5	2	['Draco Meteor', 2]	['U-turn', 2]	['Dark Pulse', 1]	
+Dragapult	1	A	A	D	2	None	1	TRUE	1	1	0	['Draco Meteor', 1]			
+Excadrill	2	A	A	D	2	None	1	FALSE	2	1	1	['Iron Head', 1]			
+Volcarona	3	A	A	D	2	None	1	FALSE	1	1	0	['Quiver Dance', 1]			
+Gyarados	5	A	A	D	2	None	1	FALSE	8	7	1	['Dragon Dance', 2]	['Waterfall', 4]	['Crunch', 1]	
+Tyranitar	4	A	A	D	2	None	1	FALSE	2	1	0	['Knock Off', 1]			
+Skarmory	7	A	A	D	2	None	1	FALSE	19	17	1	['Spikes', 6]	['Whirlwind', 2]	['Body Press', 3]	['Roost', 6]
+Rotom-Wash	2	D	D	A	2	None	2	FALSE	1	1	0	['Volt Switch', 1]			
+Toxapex	6	D	D	A	2	None	2	FALSE	6	5	0	['Haze', 1]	['Toxic', 2]	['Recover', 1]	['Chilling Water', 1]
+Floette-Eternal	4	D	D	A	2	None	2	FALSE	2	1	1	['Moonblast', 1]			
+Krookodile	7	D	D	A	2	None	2	FALSE	4	3	0	['Stealth Rock', 1]	['Earthquake', 1]	['Knock Off', 1]	
+Morpeko	10	D	D	A	2	None	2	FALSE	7	7	1	['Rapid Spin', 2]	['Aura Wheel', 5]		
+Hydreigon	3	D	D	A	2	None	2	TRUE	4	3	4	['Focus Blast', 1]	['Dark Pulse', 2]		
+Dragapult	1	A	A	D	2	None	2	FALSE	1	0	0				
+Excadrill	2	A	A	D	2	None	2	FALSE	2	1	1	['Earthquake', 1]			
+Volcarona	3	A	A	D	2	None	2	FALSE	5	4	0	['Quiver Dance', 1]	['Flamethrower', 1]	['Giga Drain', 2]	
+Gyarados	5	A	A	D	2	None	2	FALSE	4	2	0	['Dragon Dance', 1]	['Waterfall', 1]		
+Tyranitar	4	A	A	D	2	None	2	TRUE	5	4	0	['Rock Slide', 3]	['Stealth Rock', 1]		
+Skarmory	7	A	A	D	2	None	2	FALSE	7	6	0	['Roost', 4]	['Spikes', 2]		
+Primarina	6	B	B	D	5	None	1	FALSE	9	7	0	['Calm Mind', 5]	['Surf', 1]	['Draining Kiss', 1]	
+Aegislash	2	B	B	D	5	None	1	FALSE	6	5	0	['Swords Dance', 4]	["King's Shield", 1]		
+Archaludon	5	B	B	D	5	None	1	TRUE	4	2	0	['Stealth Rock', 1]	['Dark Pulse', 1]		
+Hawlucha	8	B	B	D	5	None	1	FALSE	2	1	0	['Swords Dance', 1]			
+Charizard	1	B	B	D	5	None	1	FALSE	5	4	2	['Dragon Dance', 1]	['Dragon Claw', 3]		
+Whimsicott	7	B	B	D	5	None	1	FALSE	3	3	0	['Tailwind', 1]	['Taunt', 1]	['Leech Seed', 1]	
+Rotom-Wash	2	D	D	B	5	None	1	FALSE	1	1	1	['Volt Switch', 1]			
+Hydreigon	3	D	D	B	5	None	1	FALSE	2	2	1	['Dark Pulse', 1]	['U-turn', 1]		
+Delphox	1	D	D	B	5	None	1	FALSE	8	6	2	['Psyshock', 4]	['Flamethrower', 2]		
+Weavile	8	D	D	B	5	None	1	TRUE	6	4	1	['Ice Shard', 3]	['Fake Out', 1]		
+Talonflame	5	D	D	B	5	None	1	FALSE	2	2	0	['Will-O-Wisp', 1]	['U-turn', 1]		
+Toxapex	6	D	D	B	5	None	1	FALSE	10	8	1	['Chilling Water', 5]	['Toxic', 2]	['Recover', 1]	
+Primarina	6	B	B	D	5	None	2	FALSE	4	1	0	['Calm Mind', 1]			
+Aegislash	2	B	B	D	5	None	2	FALSE	6	5	1	["King's Shield", 2]	['Swords Dance', 1]	['Close Combat', 1]	['Shadow Sneak', 1]
+Archaludon	5	B	B	D	5	None	2	FALSE	1	0	0				
+Hawlucha	8	B	B	D	5	None	2	FALSE	0	0	0				
+Charizard	1	B	B	D	5	None	2	TRUE	2	1	0	['Dragon Dance', 1]			
+Whimsicott	7	B	B	D	5	None	2	FALSE	3	3	0	['Taunt', 2]	['Tailwind', 1]		
+Rotom-Wash	2	D	D	B	5	None	2	FALSE	0	0	0				
+Hydreigon	3	D	D	B	5	None	2	FALSE	4	4	1	['Dark Pulse', 1]	['Stealth Rock', 1]	['Earth Power', 1]	['U-turn', 1]
+Delphox	1	D	D	B	5	None	2	FALSE	4	4	4	['Flamethrower', 2]	['Psyshock', 2]		
+Weavile	8	D	D	B	5	None	2	TRUE	5	5	1	['Triple Axel', 1]	['Ice Shard', 2]	['Knock Off', 2]	
+Talonflame	5	D	D	B	5	None	2	FALSE	1	1	0	['U-turn', 1]			
+Toxapex	6	D	D	B	5	None	2	FALSE	2	1	0	['Toxic', 1]			
+Delphox	1	D	D	Gr	3	None	1	FALSE	8	8	5	['Nasty Plot', 1]	['Flamethrower', 3]	['Shadow Ball', 4]	
+Rotom-Wash	2	D	D	Gr	3	None	1	FALSE	2	2	0	['Volt Switch', 2]			
+Hydreigon	3	D	D	Gr	3	None	1	FALSE	4	3	1	['Dark Pulse', 2]	['Dragon Pulse', 1]		
+Talonflame	5	D	D	Gr	3	None	1	FALSE	0	0	0				
+Krookodile	7	D	D	Gr	3	None	1	TRUE	3	2	0	['Earthquake', 1]	['Knock Off', 1]		
+Floette-Eternal	4	D	D	Gr	3	None	1	FALSE	0	0	0				
+Hatterene	3	Gr	Gr	D	3	None	1	TRUE	3	1	0	['Dazzling Gleam', 1]			
+Slowking-Galar	1	Gr	Gr	D	3	None	1	FALSE	3	1	1	['Ice Beam', 1]			
+Farigiraf	6	Gr	Gr	D	3	None	1	FALSE	1	0	0				
+Corviknight	2	Gr	Gr	D	3	None	1	FALSE	4	1	0	['Body Press', 1]			
+Skeledirge	8	Gr	Gr	D	3	None	1	FALSE	5	2	0	['Will-O-Wisp', 1]	['Hex', 1]		
+Samurott-Hisui	4	Gr	Gr	D	3	None	1	FALSE	1	1	0	['Ceaseless Edge', 1]			
+Delphox	1	D	D	Gr	3	None	2	FALSE	6	4	2	['Flamethrower', 4]			
+Rotom-Wash	2	D	D	Gr	3	None	2	FALSE	3	3	0	['Volt Switch', 3]			
+Hydreigon	3	D	D	Gr	3	None	2	FALSE	4	3	1	['Dark Pulse', 2]	['U-turn', 1]		
+Talonflame	5	D	D	Gr	3	None	2	FALSE	1	1	1	['U-turn', 1]			
+Krookodile	7	D	D	Gr	3	None	2	FALSE	5	5	2	['Knock Off', 3]	['Earthquake', 1]	['Close Combat', 1]	
+Floette-Eternal	4	D	D	Gr	3	None	2	TRUE	1	0	0				
+Hatterene	3	Gr	Gr	D	3	None	2	FALSE	2	1	1	['Nuzzle', 1]			
+Slowking-Galar	1	Gr	Gr	D	3	None	2	FALSE	3	1	0	['Ice Beam', 1]			
+Farigiraf	6	Gr	Gr	D	3	None	2	FALSE	1	0	0				
+Corviknight	2	Gr	Gr	D	3	None	2	FALSE	7	3	0	['Body Press', 1]	['Roost', 1]	['Iron Defense', 1]	
+Skeledirge	8	Gr	Gr	D	3	None	2	FALSE	2	1	0	['Will-O-Wisp', 1]			
+Samurott-Hisui	4	Gr	Gr	D	3	None	2	TRUE	5	2	0	['Ceaseless Edge', 1]	['Aqua Cutter', 1]		
+Delphox	1	D	D	G	6	None	1	FALSE	4	2	2	['Flamethrower', 2]			
+Toxapex	6	D	D	G	6	None	1	FALSE	5	4	0	['Toxic', 1]	['Haze', 1]	['Recover', 1]	['Chilling Water', 1]
+Krookodile	7	D	D	G	6	None	1	FALSE	3	2	1	['Earthquake', 2]			
+Hydreigon	3	D	D	G	6	None	1	TRUE	6	4	3	['U-turn', 1]	['Dark Pulse', 2]	['Flamethrower', 1]	
+Rotom-Wash	2	D	D	G	6	None	1	FALSE	1	1	0	['Volt Switch', 1]			
+Forretress	11	D	None	G	6	None	1	FALSE	3	2	0	['Volt Switch', 1]	['Explosion', 1]		
+Arcanine-Hisui	11	G	None	D	6	None	1	FALSE	2	1	1	['Head Smash', 1]			
+Beedrill	2	G	G	D	6	None	1	FALSE	7	6	1	['Poison Jab', 2]	['U-turn', 4]		
+Ninetales-Alola	3	G	G	D	6	None	1	TRUE	2	1	0	['Moonblast', 1]			
+Slowbro-Galar	1	G	G	D	6	None	1	FALSE	5	3	0	['Shell Side Arm', 1]	['Shadow Ball', 1]	['Flamethrower', 1]	
+Azumarill	5	G	G	D	6	None	1	FALSE	4	3	0	['Belly Drum', 1]	['Liquidation', 2]		
+Starmie	8	G	G	D	6	None	1	FALSE	2	1	1	['Scald', 1]			
+Delphox	1	D	D	G	6	None	2	TRUE	6	3	2	['Flamethrower', 3]			
+Toxapex	6	D	D	G	6	None	2	FALSE	2	1	0	['Toxic', 1]			
+Krookodile	7	D	D	G	6	None	2	FALSE	3	2	1	['Earthquake', 2]			
+Hydreigon	3	D	D	G	6	None	2	FALSE	3	2	2	['Dark Pulse', 1]	['Flamethrower', 1]		
+Rotom-Wash	2	D	D	G	6	None	2	FALSE	2	2	1	['Volt Switch', 2]			
+Forretress	11	D	None	G	6	None	2	FALSE	3	1	0	['Stealth Rock', 1]			
+Arcanine-Hisui	11	G	None	D	6	None	2	FALSE	2	1	1	['Flare Blitz', 1]			
+Beedrill	2	G	G	D	6	None	2	FALSE	4	3	0	['U-turn', 2]	['Poison Jab', 1]		
+Ninetales-Alola	3	G	G	D	6	None	2	FALSE	3	2	0	['Aurora Veil', 1]	['Dark Pulse', 1]		
+Slowbro-Galar	1	G	G	D	6	None	2	FALSE	2	1	0	['Shell Side Arm', 1]			
+Azumarill	5	G	G	D	6	None	2	TRUE	5	4	1	['Liquidation', 2]	['Aqua Jet', 2]		
+Starmie	8	G	G	D	6	None	2	FALSE	3	2	0	['Scald', 1]	['Psychic', 1]		
+Delphox	1	D	D	J	4	None	1	FALSE	2	1	1	['Flamethrower', 1]			
+Hydreigon	3	D	D	J	4	None	1	FALSE	3	2	0	['Stealth Rock', 1]	['U-turn', 1]		
+Toxapex	6	D	D	J	4	None	1	FALSE	15	12	2	['Recover', 6]	['Chilling Water', 2]	['Toxic', 2]	['Psychic', 1]
+Rotom-Wash	2	D	D	J	4	None	1	TRUE	9	7	1	['Hydro Pump', 4]	['Volt Switch', 2]	['Parting Shot', 1]	
+Krookodile	7	D	D	J	4	None	1	FALSE	6	4	2	['Earthquake', 2]	['Knock Off', 2]		
+Morpeko	10	D	D	J	4	None	1	FALSE	0	0	0				
+Hippowdon	2	J	J	D	4	None	1	TRUE	12	8	0	['Earthquake', 3]	['Stealth Rock', 1]	['Whirlwind', 3]	['Slack Off', 1]
+Tinkaton	9	J	J	D	4	None	1	FALSE	2	1	0	['Knock Off', 1]			
+Tyrantrum	7	J	J	D	4	None	1	FALSE	10	10	0	['Head Smash', 8]	['Struggle', 2]		
+Alakazam	5	J	J	D	4	None	1	FALSE	5	3	2	['Shadow Ball', 1]	['Energy Ball', 2]		
+Empoleon	6	J	J	D	4	None	1	FALSE	2	0	0				
+Emolga	3	J	J	D	4	None	1	FALSE	4	4	1	['Nuzzle', 2]	['U-turn', 2]		
+Delphox	1	D	D	J	4	None	2	FALSE	0	0	0				
+Hydreigon	3	D	D	J	4	None	2	TRUE	3	2	0	['Dark Pulse', 1]	['U-turn', 1]		
+Toxapex	6	D	D	J	4	None	2	FALSE	8	7	2	['Chilling Water', 2]	['Toxic', 1]	['Flamethrower', 4]	
+Rotom-Wash	2	D	D	J	4	None	2	FALSE	3	2	1	['Volt Switch', 1]	['Hydro Pump', 1]		
+Krookodile	7	D	D	J	4	None	2	FALSE	6	4	2	['Knock Off', 1]	['Earthquake', 3]		
+Morpeko	10	D	D	J	4	None	2	FALSE	3	3	1	['Rapid Spin', 1]	['Aura Wheel', 2]		
+Hippowdon	2	J	J	D	4	None	2	FALSE	6	4	0	['Earthquake', 2]	['Slack Off', 1]	['Whirlwind', 1]	
+Tinkaton	9	J	J	D	4	None	2	FALSE	5	3	1	['Stealth Rock', 1]	['Knock Off', 1]	['Play Rough', 1]	
+Tyrantrum	7	J	J	D	4	None	2	FALSE	3	2	1	['Outrage', 2]			
+Alakazam	5	J	J	D	4	None	2	FALSE	4	3	1	['Psychic', 1]	['Focus Blast', 2]		
+Empoleon	6	J	J	D	4	None	2	FALSE	3	2	1	['Surf', 2]			
+Emolga	3	J	J	D	4	None	2	TRUE	2	2	0	['U-turn', 1]	['Nuzzle', 1]		
+Hydreigon	3	D	D	N	1	None	1	FALSE	1	1	0	['U-turn', 1]			
+Hydrapple	9	D	D	N	1	None	1	FALSE	11	8	2	['Seed Bomb', 4]	['Body Press', 3]	['Recover', 1]	
+Floette-Eternal	4	D	D	N	1	None	1	FALSE	5	4	2	['Moonblast', 2]	['Trailblaze', 1]	['Light of Ruin', 1]	
+Rotom-Wash	2	D	D	N	1	None	1	TRUE	2	2	0	['Volt Switch', 2]			
+Krookodile	7	D	D	N	1	None	1	FALSE	6	3	1	['Earthquake', 1]	['Knock Off', 2]		
+Morpeko	10	D	D	N	1	None	1	FALSE	4	4	1	['Fake Out', 1]	['Aura Wheel', 2]	['Rapid Spin', 1]	
+Slowking	5	N	N	D	1	None	1	TRUE	13	12	0	['Future Sight', 5]	['Trick Room', 2]	['Chilly Reception', 2]	['Slack Off', 3]
+Clefable	3	N	N	D	1	None	1	FALSE	3	1	0	['Calm Mind', 1]			
+Incineroar	2	N	N	D	1	None	1	FALSE	4	3	0	['Fake Out', 1]	['Flare Blitz', 1]	['Parting Shot', 1]	
+Mamoswine	6	N	N	D	1	None	1	FALSE	3	2	1	['Stealth Rock', 1]	['Earthquake', 1]		
+Kingambit	1	N	N	D	1	None	1	FALSE	4	3	1	['Kowtow Cleave', 2]	['Iron Head', 1]		
+Mimikyu	9	N	N	D	1	None	1	FALSE	2	1	0	['Trick Room', 1]			
+Slowking	5	N	N	D	1	None	2	TRUE	10	6	0	['Trick Room', 2]	['Chilly Reception', 1]	['Future Sight', 2]	['Slack Off', 1]
+Clefable	3	N	N	D	1	None	2	FALSE	6	5	0	['Moonlight', 2]	['Moonblast', 1]	['Calm Mind', 1]	['Thunder Wave', 1]
+Incineroar	2	N	N	D	1	None	2	FALSE	4	3	0	['Parting Shot', 2]	['Fake Out', 1]		
+Mamoswine	6	N	N	D	1	None	2	FALSE	1	0	0				
+Kingambit	1	N	N	D	1	None	2	FALSE	4	2	0	['Iron Head', 1]	['Kowtow Cleave', 1]		
+Mimikyu	9	N	N	D	1	None	2	FALSE	1	0	0				
+Hydreigon	3	D	D	N	1	None	2	TRUE	2	2	0	['Stealth Rock', 1]	['U-turn', 1]		
+Hydrapple	9	D	D	N	1	None	2	FALSE	5	4	1	['Gyro Ball', 2]	['Body Press', 2]		
+Floette-Eternal	4	D	D	N	1	None	2	FALSE	6	5	2	['Moonblast', 5]			
+Rotom-Wash	2	D	D	N	1	None	2	FALSE	4	4	1	['Hydro Pump', 1]	['Volt Switch', 3]		
+Krookodile	7	D	D	N	1	None	2	FALSE	5	3	1	['Close Combat', 1]	['Knock Off', 2]		
+Morpeko	10	D	D	N	1	None	2	FALSE	4	4	1	['Aura Wheel', 2]	['Volt Switch', 2]		
+Absol	7	G	G	N	5	None	1	TRUE	3	2	1	['Knock Off', 1]	['Close Combat', 1]		
+Azumarill	5	G	G	N	5	None	1	FALSE	8	7	3	['Belly Drum', 1]	['Liquidation', 1]	['Aqua Jet', 5]	
+Starmie	8	G	G	N	5	None	1	FALSE	0	0	0				
+Ninetales-Alola	3	G	G	N	5	None	1	FALSE	3	2	0	['Aurora Veil', 1]	['Moonblast', 1]		
+Arcanine	4	G	G	N	5	None	1	FALSE	0	0	0				
+Slowbro-Galar	1	G	G	N	5	None	1	FALSE	3	3	2	['Drain Punch', 1]	['Shell Side Arm', 2]		
+Slowking	5	N	N	G	5	None	1	FALSE	6	5	0	['Trick Room', 3]	['Future Sight', 1]	['Chilly Reception', 1]	
+Clefable	3	N	N	G	5	None	1	FALSE	2	1	0	['Thunder Wave', 1]			
+Incineroar	2	N	N	G	5	None	1	FALSE	1	0	0				
+Mamoswine	6	N	N	G	5	None	1	TRUE	2	1	0	['Stealth Rock', 1]			
+Kingambit	1	N	N	G	5	None	1	FALSE	4	2	1	['Iron Head', 2]			
+Mimikyu	9	N	N	G	5	None	1	FALSE	2	1	0	['Trick Room', 1]			
+Absol	7	G	G	N	5	None	2	FALSE	3	2	0	['Play Rough', 2]			
+Azumarill	5	G	G	N	5	None	2	FALSE	5	5	2	['Belly Drum', 1]	['Play Rough', 1]	['Aqua Jet', 2]	['Liquidation', 1]
+Starmie	8	G	G	N	5	None	2	FALSE	1	1	0	['Scald', 1]			
+Ninetales-Alola	3	G	G	N	5	None	2	TRUE	6	5	0	['Aurora Veil', 1]	['Psyshock', 1]	['Moonblast', 3]	
+Arcanine	4	G	G	N	5	None	2	FALSE	5	3	0	['Wild Charge', 1]	['Flare Blitz', 2]		
+Slowbro-Galar	1	G	G	N	5	None	2	FALSE	4	3	1	['Drain Punch', 2]	['Iron Defense', 1]		
+Slowking	5	N	N	G	5	None	2	FALSE	3	3	0	['Trick Room', 1]	['Chilly Reception', 1]	['Future Sight', 1]	
+Clefable	3	N	N	G	5	None	2	FALSE	7	7	2	['Thunder Wave', 1]	['Moonlight', 3]	['Moonblast', 3]	
+Incineroar	2	N	N	G	5	None	2	FALSE	5	4	2	['Darkest Lariat', 4]			
+Mamoswine	6	N	N	G	5	None	2	TRUE	5	3	1	['Stealth Rock', 1]	['Earthquake', 1]	['Stone Edge', 1]	
+Kingambit	1	N	N	G	5	None	2	FALSE	2	1	1	['Iron Head', 1]			
+Mimikyu	9	N	N	G	5	None	2	FALSE	2	1	0	['Trick Room', 1]			
+Absol	7	G	G	N	5	None	3	FALSE	7	5	3	['Knock Off', 4]	['Sucker Punch', 1]		
+Azumarill	5	G	G	N	5	None	3	TRUE	3	1	0	['Belly Drum', 1]			
+Starmie	8	G	G	N	5	None	3	FALSE	6	5	0	['Ice Beam', 2]	['Thunderbolt', 2]	['Scald', 1]	
+Ninetales-Alola	3	G	G	N	5	None	3	FALSE	2	2	0	['Aurora Veil', 1]	['Moonblast', 1]		
+Arcanine	4	G	G	N	5	None	3	FALSE	8	6	3	['Bulldoze', 1]	['Close Combat', 3]	['Wild Charge', 1]	['Flare Blitz', 1]
+Slowbro-Galar	1	G	G	N	5	None	3	FALSE	1	0	0				
+Slowking	5	N	N	G	5	None	3	FALSE	4	3	0	['Future Sight', 1]	['Trick Room', 1]	['Chilly Reception', 1]	
+Clefable	3	N	N	G	5	None	3	TRUE	7	5	1	['Thunder Wave', 2]	['Moonblast', 2]	['Moonlight', 1]	
+Incineroar	2	N	N	G	5	None	3	FALSE	5	4	1	['Darkest Lariat', 1]	['Parting Shot', 2]	['Fake Out', 1]	
+Mamoswine	6	N	N	G	5	None	3	FALSE	5	4	1	['Stone Edge', 2]	['Earthquake', 1]	['Stealth Rock', 1]	
+Kingambit	1	N	N	G	5	None	3	FALSE	3	2	1	['Low Kick', 1]	['Kowtow Cleave', 1]		
+Mimikyu	9	N	N	G	5	None	3	FALSE	3	2	0	['Trick Room', 1]	['Play Rough', 1]		
+Milotic	3	O	O	G	2	None	1	FALSE	1	1	0	['Ice Beam', 1]			
+Jolteon	9	O	O	G	2	None	1	FALSE	1	0	0				
+Aggron	1	O	O	G	2	None	1	FALSE	1	0	0				
+Politoed	7	O	O	G	2	None	1	FALSE	0	0	0				
+Machamp	4	O	O	G	2	None	1	FALSE	2	1	0	['Stone Edge', 1]			
+Torkoal	8	O	O	G	2	None	1	TRUE	3	1	0	['Stealth Rock', 1]			
+Beedrill	2	G	G	O	2	None	1	FALSE	0	0	0				
+Pinsir	10	G	G	O	2	None	1	FALSE	0	0	0				
+Arcanine	4	G	G	O	2	None	1	FALSE	0	0	0				
+Froslass	6	G	G	O	2	None	1	FALSE	0	0	0				
+Ninetales-Alola	3	G	G	O	2	None	1	FALSE	0	0	0				
+Azumarill	5	G	G	O	2	None	1	TRUE	8	8	6	['Belly Drum', 1]	['Liquidation', 3]	['Aqua Jet', 2]	['Play Rough', 2]
+Milotic	3	O	O	G	2	None	2	FALSE	1	1	1	['Surf', 1]			
+Jolteon	9	O	O	G	2	None	2	TRUE	4	3	1	['Thunder', 2]	['Volt Switch', 1]		
+Aggron	1	O	O	G	2	None	2	FALSE	4	4	2	['Curse', 1]	['Body Slam', 2]	['Iron Head', 1]	
+Politoed	7	O	O	G	2	None	2	FALSE	7	5	1	['Ice Beam', 1]	['Psychic', 4]		
+Machamp	4	O	O	G	2	None	2	FALSE	0	0	0				
+Torkoal	8	O	O	G	2	None	2	FALSE	7	4	1	['Stealth Rock', 1]	['Iron Defense', 1]	['Rapid Spin', 2]	
+Beedrill	2	G	G	O	2	None	2	FALSE	1	1	0	['Drill Run', 1]			
+Pinsir	10	G	G	O	2	None	2	FALSE	3	3	0	['Earthquake', 3]			
+Arcanine	4	G	G	O	2	None	2	FALSE	8	5	0	['Scorching Sands', 4]	['Dragon Pulse', 1]		
+Froslass	6	G	G	O	2	None	2	FALSE	2	2	2	['Shadow Ball', 1]	['Destiny Bond', 1]		
+Ninetales-Alola	3	G	G	O	2	None	2	FALSE	6	4	0	['Aurora Veil', 1]	['Moonblast', 2]	['Psyshock', 1]	
+Azumarill	5	G	G	O	2	None	2	TRUE	3	2	0	['Belly Drum', 1]	['Aqua Jet', 1]		
+Beedrill	2	G	G	O	2	None	3	FALSE	0	0	0				
+Pinsir	10	G	G	O	2	None	3	FALSE	2	2	1	['Body Slam', 2]			
+Arcanine	4	G	G	O	2	None	3	TRUE	6	6	1	['Scorching Sands', 3]	['Flamethrower', 3]		
+Froslass	6	G	G	O	2	None	3	FALSE	7	7	1	['Shadow Ball', 4]	['Destiny Bond', 3]		
+Ninetales-Alola	3	G	G	O	2	None	3	FALSE	2	1	0	['Aurora Veil', 1]			
+Azumarill	5	G	G	O	2	None	3	FALSE	6	5	3	['Belly Drum', 1]	['Liquidation', 1]	['Aqua Jet', 2]	['Play Rough', 1]
+Milotic	3	O	O	G	2	None	3	FALSE	8	6	2	['Surf', 1]	['Rain Dance', 2]	['Recover', 1]	['Ice Beam', 2]
+Jolteon	9	O	O	G	2	None	3	TRUE	3	2	0	['Calm Mind', 1]	['Volt Switch', 1]		
+Aggron	1	O	O	G	2	None	3	FALSE	1	0	0				
+Politoed	7	O	O	G	2	None	3	FALSE	6	6	2	['Hydro Pump', 6]			
+Machamp	4	O	O	G	2	None	3	FALSE	2	1	0	['Stone Edge', 1]			
+Torkoal	8	O	O	G	2	None	3	FALSE	3	2	0	['Stealth Rock', 1]	['Flamethrower', 1]		
+Feraligatr	3	S	S	G	3	None	1	TRUE	6	5	1	['Flip Turn', 2]	['Brick Break', 1]	['Crunch', 2]	
+Gardevoir	8	S	S	G	3	None	1	FALSE	4	3	0	['Aura Sphere', 1]	['Destiny Bond', 1]	['Future Sight', 1]	
+Dragonite	1	S	S	G	3	None	1	FALSE	3	2	0	['Flamethrower', 1]	['Facade', 1]		
+Rhyperior	4	S	S	G	3	None	1	FALSE	1	0	0				
+Camerupt	5	S	S	G	3	None	1	FALSE	2	1	0	['Fire Blast', 1]			
+Venusaur	2	S	S	G	3	None	1	FALSE	3	2	1	['Earthquake', 1]	['Power Whip', 1]		
+Starmie	8	G	G	S	3	None	1	FALSE	0	0	0				
+Pinsir	10	G	G	S	3	None	1	FALSE	1	1	1	['Body Slam', 1]			
+Arcanine	4	G	G	S	3	None	1	FALSE	11	9	3	['Will-O-Wisp', 3]	['Flamethrower', 3]	['Dragon Pulse', 3]	
+Froslass	6	G	G	S	3	None	1	FALSE	0	0	0				
+Ninetales-Alola	3	G	G	S	3	None	1	TRUE	7	6	2	['Aurora Veil', 1]	['Blizzard', 4]	['Freeze-Dry', 1]	
+Azumarill	5	G	G	S	3	None	1	FALSE	0	0	0				
+Feraligatr	3	S	S	G	3	None	2	FALSE	5	4	0	['Brick Break', 2]	['Crunch', 1]	['Flip Turn', 1]	
+Gardevoir	8	S	S	G	3	None	2	FALSE	3	2	0	['Night Shade', 1]	['Future Sight', 1]		
+Dragonite	1	S	S	G	3	None	2	FALSE	3	2	1	['Facade', 1]	['Thunderbolt', 1]		
+Rhyperior	4	S	S	G	3	None	2	FALSE	2	1	0	['Rock Slide', 1]			
+Camerupt	5	S	S	G	3	None	2	FALSE	1	0	0				
+Venusaur	2	S	S	G	3	None	2	TRUE	4	2	0	['Body Slam', 1]	['Earthquake', 1]		
+Starmie	8	G	G	S	3	None	2	FALSE	0	0	0				
+Pinsir	10	G	G	S	3	None	2	FALSE	0	0	0				
+Arcanine	4	G	G	S	3	None	2	FALSE	6	6	1	['Will-O-Wisp', 1]	['Dragon Pulse', 2]	['Flamethrower', 3]	
+Froslass	6	G	G	S	3	None	2	FALSE	0	0	0				
+Ninetales-Alola	3	G	G	S	3	None	2	TRUE	7	6	2	['Freeze-Dry', 2]	['Aurora Veil', 1]	['Blizzard', 3]	
+Azumarill	5	G	G	S	3	None	2	FALSE	5	5	3	['Belly Drum', 1]	['Aqua Jet', 4]		
+Garchomp	1	Z	Z	G	4	None	1	FALSE	5	3	2	['Scale Shot', 1]	['Earthquake', 2]		
+Gengar	2	Z	Z	G	4	None	1	FALSE	3	2	1	['Sludge Wave', 2]			
+Glimmora	5	Z	Z	G	4	None	1	FALSE	2	1	0	['Stealth Rock', 1]			
+Meowscarada	3	Z	Z	G	4	None	1	FALSE	2	1	1	['Knock Off', 1]			
+Pelipper	9	Z	Z	G	4	None	1	TRUE	1	0	0				
+Basculegion-F	8	Z	Z	G	4	None	1	FALSE	3	2	1	['Shadow Ball', 1]	['Aqua Jet', 1]		
+Arcanine	4	G	G	Z	4	None	1	FALSE	1	0	0				
+Azumarill	5	G	G	Z	4	None	1	FALSE	1	1	1	['Aqua Jet', 1]			
+Starmie	8	G	G	Z	4	None	1	TRUE	3	2	1	['Thunderbolt', 2]			
+Pinsir	10	G	G	Z	4	None	1	FALSE	3	3	2	['Body Slam', 2]	['Quick Attack', 1]		
+Ninetales-Alola	3	G	G	Z	4	None	1	FALSE	3	2	0	['Aurora Veil', 1]	['Psyshock', 1]		
+Absol	7	G	G	Z	4	None	1	FALSE	5	4	2	['Knock Off', 4]			
+Garchomp	1	Z	Z	G	4	None	2	FALSE	5	4	3	['Swords Dance', 1]	['Earthquake', 2]	['Fire Fang', 1]	
+Gengar	2	Z	Z	G	4	None	2	FALSE	1	1	1	['Dazzling Gleam', 1]			
+Glimmora	5	Z	Z	G	4	None	2	TRUE	2	1	1	['Sludge Wave', 1]			
+Meowscarada	3	Z	Z	G	4	None	2	FALSE	0	0	0				
+Pelipper	9	Z	Z	G	4	None	2	FALSE	1	1	0	['Weather Ball', 1]			
+Basculegion-F	8	Z	Z	G	4	None	2	FALSE	3	2	1	['Shadow Ball', 1]	['Aqua Jet', 1]		
+Arcanine	4	G	G	Z	4	None	2	FALSE	1	0	0				
+Azumarill	5	G	G	Z	4	None	2	FALSE	1	0	0				
+Starmie	8	G	G	Z	4	None	2	FALSE	3	2	1	['Scald', 1]	['Power Gem', 1]		
+Pinsir	10	G	G	Z	4	None	2	FALSE	2	2	0	['Body Slam', 2]			
+Ninetales-Alola	3	G	G	Z	4	None	2	TRUE	1	1	0	['Psyshock', 1]			
+Absol	7	G	G	Z	4	None	2	FALSE	4	3	0	['Sucker Punch', 2]	['Shadow Claw', 1]		
+Garchomp	1	Z	Z	G	4	None	3	FALSE	0	0	0				
+Gengar	2	Z	Z	G	4	None	3	FALSE	2	2	1	['Sludge Wave', 2]			
+Glimmora	5	Z	Z	G	4	None	3	FALSE	1	0	0				
+Meowscarada	3	Z	Z	G	4	None	3	TRUE	5	4	3	['Flower Trick', 2]	['U-turn', 1]	['Knock Off', 1]	
+Pelipper	9	Z	Z	G	4	None	3	FALSE	3	2	0	['U-turn', 1]	['Weather Ball', 1]		
+Basculegion-F	8	Z	Z	G	4	None	3	FALSE	3	3	2	['Surf', 1]	['Shadow Ball', 1]	['Aqua Jet', 1]	
+Arcanine	4	G	G	Z	4	None	3	FALSE	2	1	1	['Bulldoze', 1]			
+Azumarill	5	G	G	Z	4	None	3	TRUE	4	3	1	['Belly Drum', 1]	['Play Rough', 1]	['Aqua Jet', 1]	
+Starmie	8	G	G	Z	4	None	3	FALSE	1	1	0	['Scald', 1]			
+Pinsir	10	G	G	Z	4	None	3	FALSE	4	4	1	['Body Slam', 2]	['Earthquake', 1]	['Quick Attack', 1]	
+Ninetales-Alola	3	G	G	Z	4	None	3	FALSE	1	0	0				
+Absol	7	G	G	Z	4	None	3	FALSE	2	2	1	['Shadow Claw', 2]			
+Hippowdon	2	J	J	Gr	6	None	1	FALSE	4	2	1	['Earthquake', 1]	['Slack Off', 1]		
+Tyrantrum	7	J	J	Gr	6	None	1	FALSE	2	1	0	['Earthquake', 1]			
+Empoleon	6	J	J	Gr	6	None	1	FALSE	2	1	0	['Roost', 1]			
+Emolga	3	J	J	Gr	6	None	1	TRUE	2	2	0	['Nuzzle', 2]			
+Scizor	1	J	J	Gr	6	None	1	FALSE	5	5	0	['Swords Dance', 2]	['Bullet Punch', 2]	['U-turn', 1]	
+Tinkaton	9	J	J	Gr	6	None	1	FALSE	2	1	0	['Knock Off', 1]			
+Slowking-Galar	1	Gr	Gr	J	6	None	1	FALSE	0	0	0				
+Hatterene	3	Gr	Gr	J	6	None	1	FALSE	0	0	0				
+Samurott-Hisui	4	Gr	Gr	J	6	None	1	TRUE	10	9	4	['Ceaseless Edge', 3]	['Sacred Sword', 4]	['Aqua Cutter', 2]	
+Skeledirge	8	Gr	Gr	J	6	None	1	FALSE	3	2	1	['Will-O-Wisp', 1]	['Torch Song', 1]		
+Tsareena	9	Gr	Gr	J	6	None	1	FALSE	4	3	1	['Triple Axel', 1]	['Knock Off', 1]	['Trop Kick', 1]	
+Sableye	10	Gr	Gr	J	6	None	1	FALSE	0	0	0				
+Hippowdon	2	J	J	Gr	6	None	2	TRUE	4	3	0	['Stealth Rock', 2]	['Earthquake', 1]		
+Tyrantrum	7	J	J	Gr	6	None	2	FALSE	7	6	1	['Head Smash', 4]	['Earthquake', 2]		
+Empoleon	6	J	J	Gr	6	None	2	FALSE	2	1	0	['Surf', 1]			
+Emolga	3	J	J	Gr	6	None	2	FALSE	4	3	0	['Iron Tail', 2]	['Nuzzle', 1]		
+Scizor	1	J	J	Gr	6	None	2	FALSE	13	13	2	['Swords Dance', 5]	['Bullet Punch', 4]	['U-turn', 2]	['Roost', 2]
+Tinkaton	9	J	J	Gr	6	None	2	FALSE	1	1	0	['Knock Off', 1]			
+Slowking-Galar	1	Gr	Gr	J	6	None	2	FALSE	2	2	0	['Future Sight', 1]	['Chilly Reception', 1]		
+Hatterene	3	Gr	Gr	J	6	None	2	FALSE	1	1	0	['Healing Wish', 1]			
+Samurott-Hisui	4	Gr	Gr	J	6	None	2	FALSE	3	2	1	['Ceaseless Edge', 2]			
+Skeledirge	8	Gr	Gr	J	6	None	2	FALSE	8	6	4	['Torch Song', 6]			
+Tsareena	9	Gr	Gr	J	6	None	2	TRUE	14	12	1	['Triple Axel', 1]	['Rapid Spin', 2]	['Trop Kick', 5]	['Knock Off', 4]
+Sableye	10	Gr	Gr	J	6	None	2	FALSE	3	1	0	['Will-O-Wisp', 1]			
+Slowking	5	N	N	Gr	2	None	1	TRUE	3	1	0	['Trick Room', 1]			
+Clefable	3	N	N	Gr	2	None	1	FALSE	9	9	1	['Calm Mind', 4]	['Moonlight', 2]	['Moonblast', 3]	
+Incineroar	2	N	N	Gr	2	None	1	FALSE	6	5	0	['Fake Out', 1]	['Flare Blitz', 2]	['Darkest Lariat', 2]	
+Mamoswine	6	N	N	Gr	2	None	1	FALSE	4	3	1	['Earthquake', 2]	['Stealth Rock', 1]		
+Kingambit	1	N	N	Gr	2	None	1	FALSE	4	3	1	['Low Kick', 1]	['Kowtow Cleave', 2]		
+Mimikyu	9	N	N	Gr	2	None	1	FALSE	4	4	0	['Play Rough', 2]	['Shadow Claw', 2]		
+Slowking-Galar	1	Gr	Gr	N	2	None	1	FALSE	3	1	1	['Sludge Bomb', 1]			
+Hatterene	3	Gr	Gr	N	2	None	1	FALSE	9	8	1	['Trick Room', 1]	['Psychic', 7]		
+Samurott-Hisui	4	Gr	Gr	N	2	None	1	TRUE	6	4	2	['Ceaseless Edge', 1]	['Flip Turn', 1]	['Sacred Sword', 2]	
+Skeledirge	8	Gr	Gr	N	2	None	1	FALSE	4	3	2	['Torch Song', 1]	['Hex', 2]		
+Tsareena	9	Gr	Gr	N	2	None	1	FALSE	2	2	0	['Knock Off', 1]	['Power Whip', 1]		
+Sableye	10	Gr	Gr	N	2	None	1	FALSE	6	4	0	['Will-O-Wisp', 1]	['Recover', 2]	['Shadow Ball', 1]	
+Slowking	5	N	N	Gr	2	None	2	FALSE	6	4	0	['Trick Room', 1]	['Future Sight', 1]	['Chilly Reception', 2]	
+Clefable	3	N	N	Gr	2	None	2	FALSE	2	1	0	['Calm Mind', 1]			
+Incineroar	2	N	N	Gr	2	None	2	FALSE	6	5	0	['Parting Shot', 3]	['Darkest Lariat', 1]	['Fake Out', 1]	
+Mamoswine	6	N	N	Gr	2	None	2	TRUE	9	7	0	['Stealth Rock', 2]	['Earthquake', 4]	['Stone Edge', 1]	
+Kingambit	1	N	N	Gr	2	None	2	FALSE	1	0	0				
+Mimikyu	9	N	N	Gr	2	None	2	FALSE	6	4	2	['Play Rough', 3]	['Shadow Claw', 1]		
+Slowking-Galar	1	Gr	Gr	N	2	None	2	FALSE	3	2	0	['Trick Room', 1]	['Future Sight', 1]		
+Hatterene	3	Gr	Gr	N	2	None	2	FALSE	0	0	0				
+Samurott-Hisui	4	Gr	Gr	N	2	None	2	FALSE	3	3	0	['Flip Turn', 2]	['Smart Strike', 1]		
+Skeledirge	8	Gr	Gr	N	2	None	2	FALSE	14	13	5	['Slack Off', 2]	['Torch Song', 7]	['Hex', 4]	
+Tsareena	9	Gr	Gr	N	2	None	2	FALSE	6	4	1	['Knock Off', 2]	['Rapid Spin', 1]	['Triple Axel', 1]	
+Sableye	10	Gr	Gr	N	2	None	2	TRUE	4	3	0	['Will-O-Wisp', 1]	['Calm Mind', 2]		
+Chandelure	6	S	S	Gr	4	None	1	TRUE	4	3	0	['Shadow Ball', 1]	['Hex', 2]		
+Gardevoir	8	S	S	Gr	4	None	1	FALSE	4	4	0	['Night Shade', 2]	['Destiny Bond', 1]	['Future Sight', 1]	
+Dragonite	1	S	S	Gr	4	None	1	FALSE	2	1	1	['Blizzard', 1]			
+Camerupt	5	S	S	Gr	4	None	1	FALSE	2	1	0	['Heat Crash', 1]			
+Venusaur	2	S	S	Gr	4	None	1	FALSE	1	1	0	['Earthquake', 1]			
+Trevenant	9	S	S	Gr	4	None	1	FALSE	2	1	0	['Energy Ball', 1]			
+Slowking-Galar	1	Gr	Gr	S	4	None	1	TRUE	2	2	0	['Trick Room', 1]	['Chilly Reception', 1]		
+Hatterene	3	Gr	Gr	S	4	None	1	FALSE	3	2	0	['Nuzzle', 1]	['Trick Room', 1]		
+Golurk	3	Gr	B	S	4	None	1	FALSE	2	2	1	['Poltergeist', 2]			
+Skeledirge	8	Gr	Gr	S	4	None	1	FALSE	3	3	4	['Torch Song', 2]	['Hex', 1]		
+Tsareena	9	Gr	Gr	S	4	None	1	FALSE	2	1	0	['Knock Off', 1]			
+Samurott-Hisui	4	Gr	Gr	S	4	None	1	FALSE	3	2	1	['Ceaseless Edge', 1]	['Flip Turn', 1]		
+Slowking-Galar	1	Gr	Gr	S	4	None	2	FALSE	0	0	0				
+Hatterene	3	Gr	Gr	S	4	None	2	FALSE	4	4	2	['Trick Room', 1]	['Dazzling Gleam', 3]		
+Golurk	3	Gr	B	S	4	None	2	FALSE	0	0	0				
+Skeledirge	8	Gr	Gr	S	4	None	2	FALSE	0	0	0				
+Tsareena	9	Gr	Gr	S	4	None	2	FALSE	6	5	2	['Knock Off', 2]	['Triple Axel', 3]		
+Samurott-Hisui	4	Gr	Gr	S	4	None	2	TRUE	5	4	2	['Ceaseless Edge', 4]			
+Chandelure	6	S	S	Gr	4	None	2	FALSE	2	1	1	['Shadow Ball', 1]			
+Gardevoir	8	S	S	Gr	4	None	2	FALSE	2	1	0	['Future Sight', 1]			
+Dragonite	1	S	S	Gr	4	None	2	FALSE	3	2	1	['Thunderbolt', 2]			
+Camerupt	5	S	S	Gr	4	None	2	FALSE	2	1	0	['Stone Edge', 1]			
+Venusaur	2	S	S	Gr	4	None	2	FALSE	4	4	0	['Earthquake', 1]	['Giga Drain', 3]		
+Trevenant	9	S	S	Gr	4	None	2	TRUE	2	1	0	['Energy Ball', 1]			
+Emolga	3	J	J	G	1	None	1	TRUE	8	6	2	['Thunderbolt', 4]	['U-turn', 2]		
+Hippowdon	2	J	J	G	1	None	1	FALSE	18	16	2	['Stealth Rock', 2]	['Whirlwind', 8]	['Earthquake', 4]	['Slack Off', 2]
+Ceruledge	4	J	J	G	1	None	1	FALSE	4	2	0	['Swords Dance', 2]			
+Empoleon	6	J	J	G	1	None	1	FALSE	4	4	2	['Flip Turn', 2]	['Surf', 2]		
+Decidueye-Hisui	8	J	J	G	1	None	1	FALSE	8	6	2	['U-turn', 2]	['Triple Arrows', 4]		
+Alakazam	5	J	J	G	1	None	1	FALSE	4	2	2	['Shadow Ball', 2]			
+Froslass	6	G	G	J	1	None	1	FALSE	8	8	4	['Blizzard', 2]	['Destiny Bond', 4]	['Shadow Ball', 2]	
+Pinsir	10	G	G	J	1	None	1	FALSE	2	2	0	['Quick Attack', 2]			
+Azumarill	5	G	G	J	1	None	1	TRUE	22	16	6	['Belly Drum', 2]	['Liquidation', 2]	['Body Slam', 4]	['Quick Attack', 2]
+Slowbro-Galar	1	G	G	J	1	None	1	FALSE	2	2	2	['Flamethrower', 2]			
+Ninetales-Alola	3	G	G	J	1	None	1	FALSE	12	8	0	['Aurora Veil', 4]	['Liquidation', 2]	['Close Combat', 2]	
+Arcanine	4	G	G	J	1	None	1	FALSE	0	0	0				
+Froslass	6	G	G	J	1	None	2	FALSE	5	4	1	['Blizzard', 1]	['Flare Blitz', 1]	['Close Combat', 1]	['Shadow Ball', 1]
+Pinsir	10	G	G	J	1	None	2	FALSE	2	2	1	['Quick Attack', 1]	['Body Slam', 1]		
+Azumarill	5	G	G	J	1	None	2	TRUE	5	3	1	['Belly Drum', 1]	['Aqua Jet', 2]		
+Slowbro-Galar	1	G	G	J	1	None	2	FALSE	6	5	2	['Flamethrower', 3]	['Shell Side Arm', 1]	['Focus Blast', 1]	
+Ninetales-Alola	3	G	G	J	1	None	2	FALSE	3	1	0	['Aurora Veil', 1]			
+Arcanine	4	G	G	J	1	None	2	FALSE	0	0	0				
+Emolga	3	J	J	G	1	None	2	TRUE	3	3	1	['U-turn', 1]	['Thunderbolt', 1]	['Encore', 1]	
+Hippowdon	2	J	J	G	1	None	2	FALSE	3	2	0	['Stealth Rock', 1]	['Whirlwind', 1]		
+Ceruledge	4	J	J	G	1	None	2	FALSE	3	2	1	['Shadow Sneak', 2]			
+Empoleon	6	J	J	G	1	None	2	FALSE	4	4	2	['Flip Turn', 1]	['Roost', 1]	['Surf', 2]	
+Decidueye-Hisui	8	J	J	G	1	None	2	FALSE	2	1	0	['Triple Arrows', 1]			
+Alakazam	5	J	J	G	1	None	2	FALSE	6	5	2	['Psychic', 2]	['Focus Blast', 1]	['Shadow Ball', 2]	
+Emolga	3	J	J	G	1	None	3	FALSE	1	0	0				
+Hippowdon	2	J	J	G	1	None	3	TRUE	3	2	0	['Stealth Rock', 1]	['Earthquake', 1]		
+Ceruledge	4	J	J	G	1	None	3	FALSE	3	3	2	['Bitter Blade', 2]	['Shadow Sneak', 1]		
+Empoleon	6	J	J	G	1	None	3	FALSE	8	8	3	['Flip Turn', 1]	['Roost', 2]	['Surf', 4]	['Ice Beam', 1]
+Decidueye-Hisui	8	J	J	G	1	None	3	FALSE	3	2	0	['Triple Arrows', 2]			
+Alakazam	5	J	J	G	1	None	3	FALSE	4	3	2	['Shadow Ball', 1]	['Psychic', 2]		
+Froslass	6	G	G	J	1	None	3	FALSE	4	3	2	['Blizzard', 2]	['Shadow Ball', 1]		
+Pinsir	10	G	G	J	1	None	3	FALSE	2	2	1	['Quick Attack', 1]	['Earthquake', 1]		
+Azumarill	5	G	G	J	1	None	3	FALSE	2	2	0	['Aqua Jet', 2]			
+Slowbro-Galar	1	G	G	J	1	None	3	FALSE	3	2	0	['Focus Blast', 2]			
+Ninetales-Alola	3	G	G	J	1	None	3	TRUE	9	7	1	['Aurora Veil', 1]	['Moonblast', 6]		
+Arcanine	4	G	G	J	1	None	3	FALSE	2	2	0	['Flare Blitz', 1]	['Close Combat', 1]		
+Hippowdon	2	J	J	S	5	None	1	TRUE	2	1	0	['Stealth Rock', 1]			
+Tyrantrum	7	J	J	S	5	None	1	FALSE	0	0	0				
+Empoleon	6	J	J	S	5	None	1	FALSE	5	4	2	['Ice Beam', 3]	['Flash Cannon', 1]		
+Emolga	3	J	J	S	5	None	1	FALSE	0	0	0				
+Ceruledge	4	J	J	S	5	None	1	FALSE	5	5	2	['Bitter Blade', 1]	['Shadow Sneak', 2]	['Poltergeist', 2]	
+Scizor	1	J	J	S	5	None	1	FALSE	1	1	2	['Bullet Punch', 1]			
+Chandelure	5	S	S	J	5	None	1	FALSE	2	1	0	['Dark Pulse', 1]			
+Gardevoir	8	S	S	J	5	None	1	FALSE	3	2	0	['Shadow Ball', 2]			
+Dragonite	1	S	S	J	5	None	1	FALSE	1	1	0	['Thunderbolt', 1]			
+Camerupt	5	S	S	J	5	None	1	FALSE	3	2	1	['Heat Crash', 1]	['Stone Edge', 1]		
+Venusaur	2	S	S	J	5	None	1	TRUE	3	2	0	['Energy Ball', 1]	['Leaf Storm', 1]		
+Trevenant	9	S	S	J	5	None	1	FALSE	1	0	0				
+Hippowdon	2	J	J	S	5	None	2	TRUE	6	4	1	['Stealth Rock', 1]	['Earthquake', 2]	['Whirlwind', 1]	
+Tyrantrum	7	J	J	S	5	None	2	FALSE	0	0	0				
+Empoleon	6	J	J	S	5	None	2	FALSE	0	0	0				
+Emolga	3	J	J	S	5	None	2	FALSE	0	0	0				
+Ceruledge	4	J	J	S	5	None	2	FALSE	0	0	0				
+Scizor	1	J	J	S	5	None	2	FALSE	7	7	5	['Swords Dance', 1]	['Bullet Punch', 6]		
+Chandelure	6	S	S	J	5	None	2	FALSE	0	0	0				
+Gardevoir	8	S	S	J	5	None	2	FALSE	1	0	0				
+Dragonite	1	S	S	J	5	None	2	FALSE	1	0	0				
+Camerupt	5	S	S	J	5	None	2	TRUE	4	2	0	['Heat Crash', 1]	['Stone Edge', 1]		
+Venusaur	2	S	S	J	5	None	2	FALSE	5	3	1	['Dark Pulse', 2]	['Leaf Storm', 1]		
+Trevenant	9	S	S	J	5	None	2	FALSE	2	1	0	['Energy Ball', 1]			
+Slowking	5	N	N	A	4	None	1	FALSE	8	8	0	['Future Sight', 2]	['Trick Room', 3]	['Chilly Reception', 2]	['Slack Off', 1]
+Clefable	3	N	N	A	4	None	1	FALSE	9	7	3	['Thunder Wave', 2]	['Calm Mind', 2]	['Moonblast', 3]	
+Incineroar	2	N	N	A	4	None	1	FALSE	2	2	0	['Parting Shot', 2]			
+Mamoswine	6	N	N	A	4	None	1	TRUE	5	3	2	['Stealth Rock', 1]	['Icicle Crash', 1]	['Stone Edge', 1]	
+Kingambit	1	N	N	A	4	None	1	FALSE	2	2	1	['Low Kick', 2]			
+Mimikyu	9	N	N	A	4	None	1	FALSE	1	0	0				
+Dragapult	1	A	A	N	4	None	1	TRUE	11	10	0	['Fire Blast', 2]	['U-turn', 3]	['Shadow Ball', 4]	['Draco Meteor', 1]
+Excadrill	2	A	A	N	4	None	1	FALSE	10	7	3	['Iron Head', 4]	['Earthquake', 3]		
+Volcarona	3	A	A	N	4	None	1	FALSE	1	0	0				
+Gyarados	5	A	A	N	4	None	1	FALSE	3	1	0	['Waterfall', 1]			
+Tyranitar	4	A	A	N	4	None	1	FALSE	1	1	0	['Rock Slide', 1]			
+Umbreon	6	A	A	N	4	None	1	FALSE	1	0	0				
+Slowking	5	N	N	A	4	None	2	FALSE	5	5	0	['Trick Room', 2]	['Chilly Reception', 3]		
+Clefable	3	N	N	A	4	None	2	FALSE	0	0	0				
+Incineroar	2	N	N	A	4	None	2	FALSE	5	5	2	['Darkest Lariat', 1]	['Flare Blitz', 2]	['Parting Shot', 2]	
+Mamoswine	6	N	N	A	4	None	2	TRUE	4	2	1	['Stealth Rock', 1]	['Earthquake', 1]		
+Kingambit	1	N	N	A	4	None	2	FALSE	8	7	2	['Iron Head', 2]	['Low Kick', 2]	['Swords Dance', 1]	['Kowtow Cleave', 2]
+Mimikyu	9	N	N	A	4	None	2	FALSE	2	2	1	['Play Rough', 2]			
+Dragapult	1	A	A	N	4	None	2	TRUE	6	5	0	['Fire Blast', 1]	['Draco Meteor', 2]	['Shadow Ball', 2]	
+Excadrill	2	A	A	N	4	None	2	FALSE	2	2	1	['Iron Head', 1]	['Swords Dance', 1]		
+Volcarona	3	A	A	N	4	None	2	FALSE	0	0	0				
+Gyarados	5	A	A	N	4	None	2	FALSE	2	2	0	['Dragon Dance', 1]	['Waterfall', 1]		
+Tyranitar	4	A	A	N	4	None	2	FALSE	10	8	1	['Thunder Wave', 2]	['Knock Off', 3]	['Rock Slide', 3]	
+Umbreon	6	A	A	N	4	None	2	FALSE	4	4	0	['Wish', 2]	['Protect', 1]	['Foul Play', 1]	
+Scovillain	5	O	O	Gr	1	None	1	FALSE	4	3	0	['Flamethrower', 1]	['Leech Seed', 1]	['Energy Ball', 1]	
+Milotic	3	O	O	Gr	1	None	1	FALSE	13	10	0	['Ice Beam', 5]	['Rain Dance', 1]	['Surf', 2]	['Recover', 2]
+Jolteon	9	O	O	Gr	1	None	1	FALSE	0	0	0				
+Aggron	1	O	O	Gr	1	None	1	FALSE	4	3	0	['Body Slam', 1]	['Curse', 2]		
+Sneasler	2	O	O	Gr	1	None	1	TRUE	3	2	0	['Fake Out', 1]	['Taunt', 1]		
+Torkoal	8	O	O	Gr	1	None	1	FALSE	5	4	0	['Iron Defense', 1]	['Stealth Rock', 2]	['Flamethrower', 1]	
+Slowking-Galar	1	Gr	Gr	O	1	None	1	TRUE	6	4	0	['Future Sight', 2]	['Trick Room', 1]	['Chilly Reception', 1]	
+Hatterene	3	Gr	Gr	O	1	None	1	FALSE	0	0	0				
+Samurott-Hisui	4	Gr	Gr	O	1	None	1	FALSE	1	1	0	['Flip Turn', 1]			
+Skeledirge	8	Gr	Gr	O	1	None	1	FALSE	4	3	0	['Hex', 1]	['Torch Song', 1]	['Will-O-Wisp', 1]	
+Tsareena	9	Gr	Gr	O	1	None	1	FALSE	3	2	0	['Rapid Spin', 1]	['Triple Axel', 1]		
+Sableye	10	Gr	Gr	O	1	None	1	FALSE	15	13	2	['Calm Mind', 6]	['Will-O-Wisp', 1]	['Shadow Ball', 4]	['Recover', 2]
+Scovillain	5	O	O	Gr	1	None	2	FALSE	5	4	0	['Leech Seed', 1]	['Flamethrower', 3]		
+Milotic	3	O	O	Gr	1	None	2	FALSE	10	8	2	['Surf', 6]	['Rain Dance', 1]	['Ice Beam', 1]	
+Jolteon	9	O	O	Gr	1	None	2	FALSE	3	3	0	['Volt Switch', 2]	['Thunder', 1]		
+Aggron	1	O	O	Gr	1	None	2	TRUE	8	8	0	['Curse', 3]	['Earthquake', 1]	['Body Slam', 1]	['Iron Head', 3]
+Sneasler	2	O	O	Gr	1	None	2	FALSE	7	6	1	['Taunt', 1]	['Dire Claw', 3]	['Fake Out', 1]	['Close Combat', 1]
+Torkoal	8	O	O	Gr	1	None	2	FALSE	5	4	0	['Iron Defense', 2]	['Stealth Rock', 1]	['Rapid Spin', 1]	
+Slowking-Galar	1	Gr	Gr	O	1	None	2	TRUE	7	6	1	['Focus Blast', 3]	['Future Sight', 2]	['Chilly Reception', 1]	
+Hatterene	3	Gr	Gr	O	1	None	2	FALSE	2	2	0	['Trick Room', 1]	['Healing Wish', 1]		
+Samurott-Hisui	4	Gr	Gr	O	1	None	2	FALSE	2	1	0	['Ceaseless Edge', 1]			
+Skeledirge	8	Gr	Gr	O	1	None	2	FALSE	10	8	1	['Torch Song', 4]	['Will-O-Wisp', 1]	['Slack Off', 2]	['Hex', 1]
+Tsareena	9	Gr	Gr	O	1	None	2	FALSE	4	1	0	['Knock Off', 1]			
+Sableye	10	Gr	Gr	O	1	None	2	FALSE	13	11	4	['Will-O-Wisp', 1]	['Shadow Ball', 7]	['Recover', 2]	['Calm Mind', 1]
+Milotic	3	O	O	J	3	None	1	FALSE	0	0	0				
+Politoed	7	O	O	J	3	None	1	FALSE	0	0	0				
+Torkoal	8	O	O	J	3	None	1	TRUE	7	5	2	['Stealth Rock', 1]	['Rapid Spin', 1]	['Ice Beam', 1]	['Flamethrower', 1]
+Scovillain	5	O	O	J	3	None	1	FALSE	5	4	3	['Solar Beam', 1]	['Flamethrower', 1]	['Energy Ball', 1]	['Leech Seed', 1]
+Sneasler	2	O	O	J	3	None	1	FALSE	1	1	1	['Dire Claw', 1]			
+Gliscor	6	O	O	J	3	None	1	FALSE	0	0	0				
+Ceruledge	4	J	J	O	3	None	1	FALSE	1	1	0	['Close Combat', 1]			
+Alakazam	5	J	J	O	3	None	1	FALSE	2	1	1	['Psychic', 1]			
+Tyrantrum	7	J	J	O	3	None	1	FALSE	2	2	1	['Head Smash', 2]			
+Emolga	3	J	J	O	3	None	1	FALSE	0	0	0				
+Scizor	1	J	J	O	3	None	1	FALSE	3	2	0	['Swords Dance', 1]	['U-turn', 1]		
+Hippowdon	2	J	J	O	3	None	1	TRUE	5	4	0	['Stealth Rock', 1]	['Whirlwind', 1]	['Earthquake', 2]	
+Milotic	3	O	O	J	3	None	2	FALSE	1	0	0				
+Politoed	7	O	O	J	3	None	2	FALSE	0	0	0				
+Torkoal	8	O	O	J	3	None	2	FALSE	2	1	0	['Flamethrower', 1]			
+Scovillain	5	O	O	J	3	None	2	FALSE	1	0	0				
+Sneasler	2	O	O	J	3	None	2	FALSE	5	5	4	['Dire Claw', 4]	['Close Combat', 1]		
+Gliscor	6	O	O	J	3	None	2	TRUE	11	8	2	['Spikes', 2]	['Knock Off', 3]	['Stealth Rock', 1]	['Energy Ball', 1]
+Ceruledge	4	J	J	O	3	None	2	TRUE	3	2	0	['Shadow Sneak', 2]			
+Alakazam	5	J	J	O	3	None	2	FALSE	1	0	0				
+Tyrantrum	7	J	J	O	3	None	2	FALSE	5	5	3	['Head Smash', 5]			
+Emolga	3	J	J	O	3	None	2	FALSE	5	4	1	['Encore', 1]	['Thunderbolt', 2]	['U-turn', 1]	
+Scizor	1	J	J	O	3	None	2	FALSE	3	2	0	['Swords Dance', 1]	['U-turn', 1]		
+Hippowdon	2	J	J	O	3	None	2	FALSE	3	2	0	['Stealth Rock', 1]	['Whirlwind', 1]		
+Gardevoir	8	S	S	O	6	None	1	FALSE	0	0	0				
+Dragonite	1	S	S	O	6	None	1	FALSE	2	1	1	['Earthquake', 1]			
+Trevenant	9	S	S	O	6	None	1	TRUE	4	2	0	['Shadow Ball', 1]	['Leaf Storm', 1]		
+Feraligatr	3	S	S	O	6	None	1	FALSE	3	0	0				
+Rhyperior	4	S	S	O	6	None	1	FALSE	2	1	1	['Rock Slide', 1]			
+Camerupt	5	S	S	O	6	None	1	FALSE	1	0	0				
+Politoed	7	O	O	S	6	None	1	FALSE	4	4	2	['Ice Beam', 4]			
+Torkoal	8	O	O	S	6	None	1	FALSE	0	0	0				
+Scovillain	5	O	O	S	6	None	1	FALSE	0	0	0				
+Sneasler	2	O	O	S	6	None	1	TRUE	6	6	2	['Swords Dance', 2]	['Dire Claw', 4]		
+Milotic	3	O	O	S	6	None	1	FALSE	2	2	2	['Surf', 2]			
+Gliscor	6	O	O	S	6	None	1	FALSE	0	0	0				
+Politoed	7	O	O	S	6	None	2	FALSE	3	2	1	['Weather Ball', 2]			
+Torkoal	8	O	O	S	6	None	2	FALSE	5	3	1	['Flamethrower', 3]			
+Scovillain	5	O	O	S	6	None	2	FALSE	4	3	2	['Solar Beam', 1]	['Psychic', 2]		
+Sneasler	2	O	O	S	6	None	2	FALSE	3	3	2	['Swords Dance', 1]	['Close Combat', 2]		
+Milotic	3	O	O	S	6	None	2	FALSE	3	2	0	['Alluring Voice', 2]			
+Gliscor	6	O	O	S	6	None	2	TRUE	2	2	0	['Stealth Rock', 1]	['Knock Off', 1]		
+Gardevoir	8	S	S	O	6	None	2	FALSE	1	0	0				
+Dragonite	1	S	S	O	6	None	2	FALSE	4	4	1	['Thunder', 2]	['Earthquake', 1]	['Dragon Tail', 1]	
+Trevenant	9	S	S	O	6	None	2	FALSE	4	3	0	['Leaf Storm', 1]	['Drain Punch', 1]	['Facade', 1]	
+Feraligatr	3	S	S	O	6	None	2	FALSE	4	2	0	['Hydro Pump', 1]	['Focus Blast', 1]		
+Rhyperior	4	S	S	O	6	None	2	TRUE	6	4	2	['Avalanche', 1]	['Hydro Pump', 2]	['Rock Slide', 1]	
+Camerupt	5	S	S	O	6	None	2	FALSE	1	0	0				
+Garchomp	1	Z	Z	O	5	None	1	FALSE	3	3	2	['Earthquake', 3]			
+Medicham	4	Z	Z	O	5	None	1	FALSE	0	0	0				
+Meowscarada	3	Z	Z	O	5	None	1	FALSE	0	0	0				
+Rotom-Heat	7	Z	Z	O	5	None	1	FALSE	0	0	0				
+Maushold-Four	10	Z	Z	O	5	None	1	TRUE	8	8	4	['Tidy Up', 1]	['Population Bomb', 6]	['Bite', 1]	
+Gengar	2	Z	Z	O	5	None	1	FALSE	0	0	0				
+Politoed	7	O	O	Z	5	None	1	FALSE	1	0	0				
+Torkoal	8	O	O	Z	5	None	1	TRUE	5	2	0	['Stealth Rock', 1]	['Flamethrower', 1]		
+Scovillain	5	O	O	Z	5	None	1	FALSE	0	0	0				
+Jolteon	9	O	O	Z	5	None	1	FALSE	3	2	1	['Thunder', 1]	['Calm Mind', 1]		
+Sneasler	2	O	O	Z	5	None	1	FALSE	1	0	0				
+Milotic	3	O	O	Z	5	None	1	FALSE	1	0	0				
+Politoed	7	O	O	Z	5	None	2	FALSE	3	2	1	['Ice Beam', 2]			
+Torkoal	8	O	O	Z	5	None	2	FALSE	1	0	0				
+Scovillain	5	O	O	Z	5	None	2	FALSE	1	0	0				
+Jolteon	9	O	O	Z	5	None	2	FALSE	1	0	0				
+Sneasler	2	O	O	Z	5	None	2	TRUE	2	2	0	['Taunt', 1]	['Close Combat', 1]		
+Milotic	3	O	O	Z	5	None	2	FALSE	2	0	0				
+Garchomp	1	Z	Z	O	5	None	2	FALSE	3	2	2	['Earthquake', 2]			
+Medicham	4	Z	Z	O	5	None	2	FALSE	0	0	0				
+Meowscarada	3	Z	Z	O	5	None	2	FALSE	0	0	0				
+Rotom-Heat	7	Z	Z	O	5	None	2	TRUE	1	1	0	['Volt Switch', 1]			
+Maushold-Four	10	Z	Z	O	5	None	2	FALSE	6	6	4	['Tidy Up', 1]	['Population Bomb', 4]	['Bite', 1]	
+Gengar	2	Z	Z	O	5	None	2	FALSE	0	0	0				
+Pelipper	9	Z	Z	A	6	None	1	FALSE	4	4	1	['U-turn', 2]	['Weather Ball', 1]	['Surf', 1]	
+Basculegion	8	Z	Z	A	6	None	1	FALSE	1	1	1	['Aqua Jet', 1]			
+Glimmora	5	Z	Z	A	6	None	1	FALSE	2	2	0	['Mud Shot', 2]			
+Garchomp	1	Z	Z	A	6	None	1	TRUE	8	6	3	['Scale Shot', 3]	['Earthquake', 2]	['Swords Dance', 1]	
+Meowscarada	3	Z	Z	A	6	None	1	FALSE	0	0	0				
+Rotom-Heat	7	Z	Z	A	6	None	1	FALSE	4	4	1	['Will-O-Wisp', 1]	['Overheat', 2]	['Volt Switch', 1]	
+Dragapult	1	A	A	Z	6	None	1	TRUE	1	1	0	['Draco Meteor', 1]			
+Excadrill	2	A	A	Z	6	None	1	FALSE	3	3	0	['Earthquake', 1]	['Rapid Spin', 2]		
+Volcarona	3	A	A	Z	6	None	1	FALSE	0	0	1				
+Gyarados	5	A	A	Z	6	None	1	FALSE	5	4	1	['Waterfall', 2]	['Dragon Dance', 1]	['Iron Head', 1]	
+Tyranitar	4	A	A	Z	6	None	1	FALSE	5	3	1	['Stealth Rock', 1]	['Knock Off', 1]	['Rock Slide', 1]	
+Umbreon	6	A	A	Z	6	None	1	FALSE	5	4	0	['Toxic', 1]	['Foul Play', 1]	['Wish', 1]	['Protect', 1]
+Pelipper	9	Z	Z	A	6	None	2	TRUE	5	2	0	['U-turn', 1]	['Hurricane', 1]		
+Basculegion	8	Z	Z	A	6	None	2	FALSE	5	4	1	['Phantom Force', 2]	['Wave Crash', 1]	['Aqua Jet', 1]	
+Glimmora	5	Z	Z	A	6	None	2	FALSE	2	1	0	['Stealth Rock', 1]			
+Garchomp	1	Z	Z	A	6	None	2	FALSE	2	1	1	['Swords Dance', 1]			
+Meowscarada	3	Z	Z	A	6	None	2	FALSE	6	5	3	['Play Rough', 3]	['Sucker Punch', 1]	['Knock Off', 1]	
+Rotom-Heat	7	Z	Z	A	6	None	2	FALSE	1	0	1				
+Dragapult	1	A	A	Z	6	None	2	FALSE	5	3	2	['Draco Meteor', 1]	['Shadow Ball', 2]		
+Excadrill	2	A	A	Z	6	None	2	FALSE	4	2	2	['Earthquake', 1]	['Iron Head', 1]		
+Volcarona	3	A	A	Z	6	None	2	FALSE	1	1	0	['Giga Drain', 1]			
+Gyarados	5	A	A	Z	6	None	2	FALSE	3	1	1	['Waterfall', 1]			
+Tyranitar	4	A	A	Z	6	None	2	TRUE	5	3	0	['Rock Slide', 2]	['Knock Off', 1]		
+Umbreon	6	A	A	Z	6	None	2	FALSE	3	2	0	['Wish', 1]	['Protect', 1]		
+Garchomp	1	Z	Z	B	1	None	1	FALSE	0	0	0				
+Gengar	2	Z	Z	B	1	None	1	TRUE	3	2	1	['Shadow Ball', 1]	['Sludge Wave', 1]		
+Glimmora	5	Z	Z	B	1	None	1	FALSE	2	2	1	['Earth Power', 2]			
+Meowscarada	3	Z	Z	B	1	None	1	FALSE	1	1	1	['Flower Trick', 1]			
+Pelipper	9	Z	Z	B	1	None	1	FALSE	1	0	0				
+Basculegion-F	8	Z	Z	B	1	None	1	FALSE	7	6	3	['Shadow Ball', 2]	['Surf', 4]		
+Aegislash	2	B	B	Z	1	None	1	FALSE	2	1	0	['Shadow Sneak', 1]			
+Archaludon	5	B	B	Z	1	None	1	FALSE	3	2	2	['Flash Cannon', 1]	['Thunderbolt', 1]		
+Meganium	4	B	B	Z	1	None	1	FALSE	0	0	0				
+Primarina	6	B	B	Z	1	None	1	FALSE	5	4	1	['Calm Mind', 2]	['Draining Kiss', 2]		
+Hawlucha	8	B	B	Z	1	None	1	FALSE	1	0	0				
+Whimsicott	7	B	B	Z	1	None	1	TRUE	3	3	0	['Leech Seed', 1]	['U-turn', 1]	['Encore', 1]	
+Garchomp	1	Z	Z	B	1	None	2	FALSE	0	0	0				
+Gengar	2	Z	Z	B	1	None	2	FALSE	5	4	2	['Shadow Ball', 3]	['Sludge Wave', 1]		
+Glimmora	5	Z	Z	B	1	None	2	TRUE	2	1	0	['Stealth Rock', 1]			
+Meowscarada	3	Z	Z	B	1	None	2	FALSE	7	6	2	['Low Kick', 2]	['Triple Axel', 3]	['Knock Off', 1]	
+Pelipper	9	Z	Z	B	1	None	2	FALSE	4	2	1	['Hurricane', 1]	['Weather Ball', 1]		
+Basculegion-F	8	Z	Z	B	1	None	2	FALSE	2	2	1	['Shadow Ball', 1]	['Ice Beam', 1]		
+Aegislash	2	B	B	Z	1	None	2	FALSE	3	1	0	["King's Shield", 1]			
+Archaludon	5	B	B	Z	1	None	2	FALSE	6	3	2	['Stealth Rock', 1]	['Draco Meteor', 1]	['Flash Cannon', 1]	
+Meganium	4	B	B	Z	1	None	2	FALSE	3	2	1	['Solar Beam', 1]	['Synthesis', 1]		
+Primarina	6	B	B	Z	1	None	2	FALSE	1	1	0	['Calm Mind', 1]			
+Hawlucha	8	B	B	Z	1	None	2	TRUE	3	3	1	['Close Combat', 2]	['Defog', 1]		
+Whimsicott	7	B	B	Z	1	None	2	FALSE	4	3	0	['Encore', 1]	['Leech Seed', 2]		
+Slowking	5	N	N	Z	3	None	1	TRUE	3	1	0	['Chilly Reception', 1]			
+Clefable	3	N	N	Z	3	None	1	FALSE	0	0	0				
+Incineroar	2	N	N	Z	3	None	1	FALSE	4	3	0	['Parting Shot', 2]	['Darkest Lariat', 1]		
+Mamoswine	6	N	N	Z	3	None	1	FALSE	3	2	2	['Icicle Crash', 1]	['Stone Edge', 1]		
+Kingambit	1	N	N	Z	3	None	1	FALSE	2	1	1	['Kowtow Cleave', 1]			
+Mimikyu	9	N	N	Z	3	None	1	FALSE	7	6	0	['Shadow Claw', 5]	['Trick Room', 1]		
+Garchomp	1	Z	Z	N	3	None	1	FALSE	2	1	1	['Earthquake', 1]			
+Gengar	2	Z	Z	N	3	None	1	FALSE	2	1	1	['Shadow Ball', 1]			
+Glimmora	5	Z	Z	N	3	None	1	FALSE	3	2	1	['Power Gem', 2]			
+Meowscarada	3	Z	Z	N	3	None	1	FALSE	2	2	1	['Flower Trick', 1]	['U-turn', 1]		
+Pelipper	9	Z	Z	N	3	None	1	TRUE	5	4	0	['Hurricane', 1]	['U-turn', 3]		
+Basculegion-F	8	Z	Z	N	3	None	1	FALSE	5	3	2	['Surf', 3]			
+Slowking	5	N	N	Z	3	None	2	FALSE	10	8	0	['Future Sight', 3]	['Chilly Reception', 3]	['Trick Room', 2]	
+Clefable	3	N	N	Z	3	None	2	FALSE	1	0	0				
+Incineroar	2	N	N	Z	3	None	2	FALSE	5	4	1	['Parting Shot', 2]	['Fake Out', 1]	['Darkest Lariat', 1]	
+Mamoswine	6	N	N	Z	3	None	2	TRUE	4	2	1	['Stealth Rock', 1]	['Stone Edge', 1]		
+Kingambit	1	N	N	Z	3	None	2	FALSE	4	3	2	['Swords Dance', 1]	['Kowtow Cleave', 1]	['Iron Head', 1]	
+Mimikyu	9	N	N	Z	3	None	2	FALSE	1	1	0	['Play Rough', 1]			
+Garchomp	1	Z	Z	N	3	None	2	FALSE	8	7	2	['Earthquake', 6]	['Swords Dance', 1]		
+Gengar	2	Z	Z	N	3	None	2	TRUE	7	5	1	['Focus Blast', 1]	['Shadow Ball', 3]	['Sludge Wave', 1]	
+Glimmora	5	Z	Z	N	3	None	2	FALSE	0	0	0				
+Meowscarada	3	Z	Z	N	3	None	2	FALSE	2	2	1	['U-turn', 2]			
+Pelipper	9	Z	Z	N	3	None	2	FALSE	7	4	0	['Weather Ball', 1]	['Roost', 2]	['U-turn', 1]	
+Basculegion-F	8	Z	Z	N	3	None	2	FALSE	1	1	1	['Surf', 1]			
+Garchomp	1	Z	Z	S	2	None	1	TRUE	7	7	6	['Swords Dance', 1]	['Earthquake', 4]	['Scale Shot', 1]	['Fire Fang', 1]
+Gengar	2	Z	Z	S	2	None	1	FALSE	0	0	0				
+Glimmora	5	Z	Z	S	2	None	1	FALSE	0	0	0				
+Meowscarada	3	Z	Z	S	2	None	1	FALSE	0	0	0				
+Maushold-Four	10	Z	Z	S	2	None	1	FALSE	0	0	0				
+Rotom-Heat	7	Z	Z	S	2	None	1	FALSE	0	0	0				
+Gardevoir	8	S	S	Z	2	None	1	FALSE	1	0	0				
+Dragonite	1	S	S	Z	2	None	1	FALSE	1	0	0				
+Trevenant	9	S	S	Z	2	None	1	FALSE	1	0	0				
+Feraligatr	3	S	S	Z	2	None	1	TRUE	2	1	0	['Dragon Claw', 1]			
+Rhyperior	4	S	S	Z	2	None	1	FALSE	1	0	0				
+Camerupt	5	S	S	Z	2	None	1	FALSE	1	0	0				
+Garchomp	1	Z	Z	S	2	None	2	FALSE	0	0	0				
+Gengar	2	Z	Z	S	2	None	2	FALSE	0	0	0				
+Glimmora	5	Z	Z	S	2	None	2	FALSE	0	0	0				
+Meowscarada	3	Z	Z	S	2	None	2	FALSE	4	4	3	['Flower Trick', 4]			
+Maushold-Four	10	Z	Z	S	2	None	2	TRUE	11	11	3	['Population Bomb', 5]	['Bite', 6]		
+Rotom-Heat	7	Z	Z	S	2	None	2	FALSE	0	0	0				
+Gardevoir	8	S	S	Z	2	None	2	TRUE	2	1	0	['Aura Sphere', 1]			
+Dragonite	1	S	S	Z	2	None	2	FALSE	1	0	0				
+Trevenant	9	S	S	Z	2	None	2	FALSE	2	0	0				
+Feraligatr	3	S	S	Z	2	None	2	FALSE	4	1	1	['Brick Break', 1]			
+Rhyperior	4	S	S	Z	2	None	2	FALSE	5	0	0				
+Camerupt	5	S	S	Z	2	None	2	FALSE	1	0	0				
+Dragapult	1	A	A	O	7	None	1	TRUE	4	4	0	['Draco Meteor', 3]	['U-turn', 1]		
+Excadrill	2	A	A	O	7	None	1	FALSE	7	6	3	['Earthquake', 5]	['Iron Head', 1]		
+Gyarados	5	A	A	O	7	None	1	FALSE	6	4	3	['Dragon Dance', 1]	['Waterfall', 1]	['Crunch', 2]	
+Tyranitar	4	A	A	O	7	None	1	FALSE	2	1	0	['Rock Slide', 1]			
+Umbreon	6	A	A	O	7	None	1	FALSE	2	1	0	['Toxic', 1]			
+Infernape	8	A	A	O	7	None	1	FALSE	0	0	0				
+Politoed	7	O	O	A	7	None	1	FALSE	6	4	3	['Weather Ball', 4]			
+Sneasler	2	O	O	A	7	None	1	FALSE	1	0	0				
+Milotic	3	O	O	A	7	None	1	FALSE	2	1	0	['Surf', 1]			
+Jolteon	9	O	O	A	7	None	1	FALSE	5	3	0	['Thunder', 1]	['Volt Switch', 1]	['Quick Attack', 1]	
+Machamp	4	O	O	A	7	None	1	FALSE	2	1	0	['Stone Edge', 1]			
+Gliscor	6	O	O	A	7	None	1	TRUE	5	5	0	['Knock Off', 3]	['Stealth Rock', 1]	['U-turn', 1]	
+Politoed	7	O	O	A	7	None	2	FALSE	9	6	0	['Weather Ball', 5]	['Encore', 1]		
+Sneasler	2	O	O	A	7	None	2	TRUE	4	2	1	['Swords Dance', 1]	['Close Combat', 1]		
+Milotic	3	O	O	A	7	None	2	FALSE	4	3	0	['Alluring Voice', 2]	['Recover', 1]		
+Jolteon	9	O	O	A	7	None	2	FALSE	4	2	1	['Calm Mind', 1]	['Quick Attack', 1]		
+Machamp	4	O	O	A	7	None	2	FALSE	6	5	2	['Dynamic Punch', 1]	['Protect', 2]	['Stone Edge', 2]	
+Gliscor	6	O	O	A	7	None	2	FALSE	5	5	0	['Knock Off', 2]	['U-turn', 3]		
+Dragapult	1	A	A	O	7	None	2	TRUE	9	9	3	['Draco Meteor', 4]	['U-turn', 3]	['Shadow Ball', 2]	
+Excadrill	2	A	A	O	7	None	2	FALSE	4	2	1	['Swords Dance', 1]	['Earthquake', 1]		
+Gyarados	5	A	A	O	7	None	2	FALSE	4	4	1	['Dragon Dance', 1]	['Crunch', 2]	['Iron Head', 1]	
+Tyranitar	4	A	A	O	7	None	2	FALSE	2	1	0	['Rock Slide', 1]			
+Umbreon	6	A	A	O	7	None	2	FALSE	10	9	1	['Wish', 5]	['Protect', 3]	['Toxic', 1]	
+Infernape	8	A	A	O	7	None	2	FALSE	3	3	0	['Grass Knot', 3]			
+Primarina	6	B	B	Gr	8	None	1	FALSE	1	0	0				
+Aegislash	2	B	B	Gr	8	None	1	FALSE	4	3	0	["King's Shield", 1]	['Shadow Ball', 1]	['Shadow Sneak', 1]	
+Archaludon	5	B	B	Gr	8	None	1	FALSE	10	8	2	['Flash Cannon', 4]	['Stealth Rock', 2]	['Thunderbolt', 2]	
+Hawlucha	8	B	B	Gr	8	None	1	FALSE	3	2	1	['Swords Dance', 2]			
+Charizard	1	B	B	Gr	8	None	1	FALSE	3	1	0	['Brick Break', 1]			
+Whimsicott	7	B	B	Gr	8	None	1	TRUE	4	3	0	['Taunt', 1]	['Leech Seed', 2]		
+Slowking-Galar	1	Gr	Gr	B	8	None	1	TRUE	4	3	0	['Sludge Bomb', 1]	['Future Sight', 1]	['Chilly Reception', 1]	
+Hatterene	3	Gr	Gr	B	8	None	1	FALSE	2	2	0	['Trick Room', 1]	['Healing Wish', 1]		
+Samurott-Hisui	4	Gr	Gr	B	8	None	1	FALSE	1	0	0				
+Tsareena	9	Gr	Gr	B	8	None	1	FALSE	6	6	2	['Rapid Spin', 2]	['Trop Kick', 1]	['Triple Axel', 2]	['Knock Off', 1]
+Skeledirge	8	Gr	Gr	B	8	None	1	FALSE	7	6	2	['Will-O-Wisp', 2]	['Torch Song', 4]		
+Kangaskhan	11	Gr	None	B	8	None	1	FALSE	5	4	2	['Fake Out', 1]	['Body Slam', 2]	['Ice Punch', 1]	
+Primarina	6	B	B	Gr	8	None	2	FALSE	8	7	1	['Calm Mind', 2]	['Draining Kiss', 3]	['Surf', 2]	
+Aegislash	2	B	B	Gr	8	None	2	FALSE	5	3	1	['Flash Cannon', 2]	["King's Shield", 1]		
+Archaludon	5	B	B	Gr	8	None	2	FALSE	7	4	1	['Stealth Rock', 3]	['Flash Cannon', 1]		
+Hawlucha	8	B	B	Gr	8	None	2	FALSE	2	1	0	['Swords Dance', 1]			
+Charizard	1	B	B	Gr	8	None	2	FALSE	2	1	0	['Brick Break', 1]			
+Whimsicott	7	B	B	Gr	8	None	2	TRUE	4	2	1	['Moonblast', 1]	['Leech Seed', 1]		
+Slowking-Galar	1	Gr	Gr	B	8	None	2	FALSE	5	5	1	['Future Sight', 1]	['Trick Room', 1]	['Chilly Reception', 1]	['Sludge Bomb', 2]
+Hatterene	3	Gr	Gr	B	8	None	2	FALSE	1	0	0				
+Samurott-Hisui	4	Gr	Gr	B	8	None	2	FALSE	2	2	0	['Ceaseless Edge', 2]			
+Tsareena	9	Gr	Gr	B	8	None	2	TRUE	7	4	0	['Knock Off', 2]	['Rapid Spin', 1]	['Trop Kick', 1]	
+Skeledirge	8	Gr	Gr	B	8	None	2	FALSE	5	4	1	['Torch Song', 1]	['Will-O-Wisp', 1]	['Hex', 2]	
+Kangaskhan	11	Gr	None	B	8	None	2	FALSE	8	8	4	['Ice Punch', 3]	['Sucker Punch', 2]	['Body Slam', 3]	
+Slowbro-Galar	1	G	G	B	7	None	1	FALSE	1	0	0				
+Salazzle	11	G	None	B	7	None	1	TRUE	1	1	0	['Sludge Wave', 1]			
+Azumarill	5	G	G	B	7	None	1	FALSE	4	3	2	['Belly Drum', 1]	['Play Rough', 2]		
+Pinsir	10	G	G	B	7	None	1	FALSE	3	3	0	['Body Slam', 1]	['Swords Dance', 1]	['Earthquake', 1]	
+Ninetales-Alola	3	G	G	B	7	None	1	FALSE	4	4	1	['Aurora Veil', 2]	['Moonblast', 2]		
+Starmie	8	G	G	B	7	None	1	FALSE	5	5	0	['Thunderbolt', 3]	['Scald', 1]	['Psychic', 1]	
+Primarina	6	B	B	G	7	None	1	FALSE	4	3	1	['Calm Mind', 2]	['Surf', 1]		
+Aegislash	2	B	B	G	7	None	1	FALSE	5	4	3	['Shadow Sneak', 1]	['Shadow Ball', 3]		
+Archaludon	5	B	B	G	7	None	1	FALSE	4	4	1	['Draco Meteor', 2]	['Flash Cannon', 2]		
+Hawlucha	8	B	B	G	7	None	1	FALSE	0	0	0				
+Charizard	1	B	B	G	7	None	1	TRUE	4	2	1	['Scorching Sands', 1]	['Solar Beam', 1]		
+Whimsicott	7	B	B	G	7	None	1	FALSE	1	1	0	['Giga Drain', 1]			
+Slowbro-Galar	1	G	G	B	7	None	2	FALSE	2	2	0	['Flamethrower', 2]			
+Salazzle	11	G	None	B	7	None	2	FALSE	0	0	0				
+Azumarill	5	G	G	B	7	None	2	FALSE	4	4	2	['Belly Drum', 1]	['Aqua Jet', 2]	['Play Rough', 1]	
+Pinsir	10	G	G	B	7	None	2	FALSE	7	7	4	['Body Slam', 3]	['Quick Attack', 3]	['Swords Dance', 1]	
+Ninetales-Alola	3	G	G	B	7	None	2	FALSE	0	0	0				
+Starmie	8	G	G	B	7	None	2	TRUE	2	1	0	['Thunderbolt', 1]			
+Primarina	6	B	B	G	7	None	2	FALSE	2	1	0	['Moonblast', 1]			
+Aegislash	2	B	B	G	7	None	2	FALSE	3	2	1	['Shadow Ball', 1]	["King's Shield", 1]		
+Archaludon	5	B	B	G	7	None	2	FALSE	1	1	0	['Flash Cannon', 1]			
+Hawlucha	8	B	B	G	7	None	2	TRUE	4	1	0	['Swords Dance', 1]			
+Charizard	1	B	B	G	7	None	2	FALSE	1	0	0				
+Whimsicott	7	B	B	G	7	None	2	FALSE	4	2	1	['Leech Seed', 1]	['Giga Drain', 1]		
+Slowbro-Galar	1	G	G	B	7	None	3	FALSE	3	2	0	['Flamethrower', 2]			
+Salazzle	11	G	None	B	7	None	3	FALSE	2	2	1	['Flamethrower', 1]	['Sludge Wave', 1]		
+Azumarill	5	G	G	B	7	None	3	TRUE	5	2	0	['Play Rough', 1]	['Belly Drum', 1]		
+Pinsir	10	G	G	B	7	None	3	FALSE	5	5	3	['Swords Dance', 1]	['Body Slam', 2]	['Quick Attack', 1]	['Earthquake', 1]
+Ninetales-Alola	3	G	G	B	7	None	3	FALSE	6	5	0	['Aurora Veil', 1]	['Power Swap', 1]	['Moonblast', 3]	
+Starmie	8	G	G	B	7	None	3	FALSE	3	3	1	['Thunderbolt', 1]	['Scald', 2]		
+Primarina	6	B	B	G	7	None	3	FALSE	4	3	1	['Calm Mind', 1]	['Surf', 2]		
+Aegislash	2	B	B	G	7	None	3	FALSE	6	6	2	['Shadow Ball', 3]	['Flash Cannon', 1]	['Shadow Sneak', 2]	
+Archaludon	5	B	B	G	7	None	3	FALSE	2	1	1	['Flash Cannon', 1]			
+Hawlucha	8	B	B	G	7	None	3	FALSE	1	0	0				
+Charizard	1	B	B	G	7	None	3	FALSE	5	2	2	['Scorching Sands', 1]	['Solar Beam', 1]		
+Whimsicott	7	B	B	G	7	None	3	TRUE	6	4	0	['Giga Drain', 2]	['Leech Seed', 2]		
+Primarina	6	B	B	N	6	None	3	FALSE	17	15	0	['Calm Mind', 4]	['Surf', 10]	['Draining Kiss', 1]	
+Aegislash	2	B	B	N	6	None	3	FALSE	15	13	4	['Flash Cannon', 2]	["King's Shield", 5]	['Shadow Ball', 5]	['Shadow Sneak', 1]
+Archaludon	5	B	B	N	6	None	3	FALSE	6	3	1	['Thunderbolt', 2]	['Flash Cannon', 1]		
+Hawlucha	8	B	B	N	6	None	3	FALSE	6	5	0	['Close Combat', 2]	['Swords Dance', 2]	['Acrobatics', 1]	
+Charizard	1	B	B	N	6	None	3	FALSE	7	4	0	['Swords Dance', 1]	['Thunder Punch', 1]	['Earthquake', 1]	['Flare Blitz', 1]
+Whimsicott	7	B	B	N	6	None	3	TRUE	9	6	0	['Leech Seed', 3]	['Giga Drain', 2]	['Moonblast', 1]	
+Slowking	5	N	N	B	6	None	3	FALSE	13	12	1	['Future Sight', 2]	['Trick Room', 5]	['Chilly Reception', 5]	
+Clefable	3	N	N	B	6	None	3	FALSE	17	15	2	['Thunder Wave', 1]	['Calm Mind', 4]	['Moonlight', 7]	['Moonblast', 3]
+Incineroar	2	N	N	B	6	None	3	TRUE	8	8	0	['Parting Shot', 4]	['Darkest Lariat', 3]	['Flare Blitz', 1]	
+Mamoswine	6	N	N	B	6	None	3	FALSE	5	2	1	['Earthquake', 1]	['Icicle Crash', 1]		
+Kingambit	1	N	N	B	6	None	3	FALSE	10	7	2	['Low Kick', 1]	['Swords Dance', 2]	['Kowtow Cleave', 4]	
+Mimikyu	9	N	N	B	6	None	3	FALSE	7	4	0	['Play Rough', 2]	['Shadow Claw', 2]		
+Delphox	1	D	D	S	7	None	1	FALSE	0	0	0				
+Rotom-Wash	2	D	D	S	7	None	1	TRUE	1	1	0	['Volt Switch', 1]			
+Hydreigon	3	D	D	S	7	None	1	FALSE	0	0	0				
+Floette-Eternal	4	D	D	S	7	None	1	FALSE	12	12	6	['Calm Mind', 4]	['Draining Kiss', 4]	['Wish', 1]	['Stored Power', 3]
+Krookodile	7	D	D	S	7	None	1	FALSE	0	0	0				
+Forretress	11	D	None	S	7	None	1	FALSE	0	0	0				
+Feraligatr	3	S	S	D	7	None	1	FALSE	1	0	0				
+Gardevoir	8	S	S	D	7	None	1	FALSE	6	6	0	['Future Sight', 1]	['Night Shade', 4]	['Destiny Bond', 1]	
+Dragonite	1	S	S	D	7	None	1	TRUE	3	2	0	['Thunderbolt', 1]	['Flamethrower', 1]		
+Rhyperior	4	S	S	D	7	None	1	FALSE	1	0	0				
+Camerupt	5	S	S	D	7	None	1	FALSE	1	0	0				
+Venusaur	2	S	S	D	7	None	1	FALSE	1	1	0	['Energy Ball', 1]			
+Delphox	1	D	D	S	7	None	2	FALSE	2	2	1	['Flamethrower', 1]	['Dazzling Gleam', 1]		
+Rotom-Wash	2	D	D	S	7	None	2	FALSE	1	1	0	['Volt Switch', 1]			
+Hydreigon	3	D	D	S	7	None	2	TRUE	8	6	3	['U-turn', 1]	['Dark Pulse', 1]	['Earth Power', 4]	
+Floette-Eternal	4	D	D	S	7	None	2	FALSE	6	6	2	['Calm Mind', 2]	['Wish', 2]	['Stored Power', 1]	['Draining Kiss', 1]
+Krookodile	7	D	D	S	7	None	2	FALSE	2	2	0	['Stealth Rock', 1]	['Knock Off', 1]		
+Forretress	11	D	None	S	7	None	2	FALSE	2	1	0	['Volt Switch', 1]			
+Feraligatr	3	S	S	D	7	None	2	FALSE	3	2	1	['Liquidation', 1]	['Flip Turn', 1]		
+Gardevoir	8	S	S	D	7	None	2	FALSE	3	2	0	['Aura Sphere', 2]			
+Dragonite	1	S	S	D	7	None	2	FALSE	3	2	1	['Blizzard', 2]			
+Rhyperior	4	S	S	D	7	None	2	FALSE	3	2	0	['Rock Slide', 2]			
+Camerupt	5	S	S	D	7	None	2	FALSE	2	1	0	['Fire Blast', 1]			
+Venusaur	2	S	S	D	7	None	2	TRUE	7	6	1	['Giga Drain', 1]	['Leaf Storm', 1]	['Earthquake', 2]	['Energy Ball', 2]
+Slowking	5	N	N	J	7	None	1	FALSE	6	6	0	['Future Sight', 2]	['Trick Room', 2]	['Chilly Reception', 2]	
+Clefable	3	N	N	J	7	None	1	FALSE	6	4	0	['Moonlight', 3]	['Calm Mind', 1]		
+Incineroar	2	N	N	J	7	None	1	FALSE	4	3	2	['Darkest Lariat', 2]	['Flare Blitz', 1]		
+Mamoswine	6	N	N	J	7	None	1	TRUE	5	5	2	['Stealth Rock', 1]	['Icicle Crash', 2]	['Earthquake', 1]	['Stone Edge', 1]
+Kingambit	1	N	N	J	7	None	1	FALSE	0	0	0				
+Mimikyu	9	N	N	J	7	None	1	FALSE	7	7	2	['Trick Room', 2]	['Shadow Claw', 4]	['Curse', 1]	
+Emolga	3	J	J	N	7	None	1	FALSE	5	4	1	['Thunderbolt', 2]	['Encore', 2]		
+Hippowdon	2	J	J	N	7	None	1	TRUE	3	2	0	['Stealth Rock', 1]	['Earthquake', 1]		
+Ceruledge	4	J	J	N	7	None	1	FALSE	1	1	0	['Bitter Blade', 1]			
+Empoleon	6	J	J	N	7	None	1	FALSE	14	12	2	['Surf', 7]	['Roost', 2]	['Ice Beam', 2]	['Flip Turn', 1]
+Decidueye-Hisui	8	J	J	N	7	None	1	FALSE	2	2	0	['Defog', 1]	['Triple Arrows', 1]		
+Alakazam	5	J	J	N	7	None	1	FALSE	3	2	0	['Energy Ball', 2]			
+Slowking	5	N	N	J	7	None	2	FALSE	2	1	0	['Trick Room', 1]			
+Clefable	3	N	N	J	7	None	2	FALSE	5	4	2	['Calm Mind', 1]	['Moonblast', 3]		
+Incineroar	2	N	N	J	7	None	2	FALSE	4	3	1	['Fake Out', 1]	['Flare Blitz', 1]	['Darkest Lariat', 1]	
+Mamoswine	6	N	N	J	7	None	2	TRUE	3	2	0	['Earthquake', 1]	['Stone Edge', 1]		
+Kingambit	1	N	N	J	7	None	2	FALSE	4	3	2	['Kowtow Cleave', 2]	['Iron Head', 1]		
+Mimikyu	9	N	N	J	7	None	2	FALSE	7	7	0	['Trick Room', 2]	['Shadow Claw', 4]	['Curse', 1]	
+Emolga	3	J	J	N	7	None	2	FALSE	1	1	0	['Thunderbolt', 1]			
+Hippowdon	2	J	J	N	7	None	2	FALSE	2	1	0	['Stealth Rock', 1]			
+Ceruledge	4	J	J	N	7	None	2	TRUE	6	5	2	['Swords Dance', 1]	['Bitter Blade', 1]	['Shadow Sneak', 3]	
+Empoleon	6	J	J	N	7	None	2	FALSE	6	5	1	['Ice Beam', 1]	['Roost', 3]	['Surf', 1]	
+Decidueye-Hisui	8	J	J	N	7	None	2	FALSE	6	4	1	['Triple Arrows', 3]	['Roost', 1]		
+Alakazam	5	J	J	N	7	None	2	FALSE	4	3	2	['Psychic', 1]	['Energy Ball', 1]	['Focus Blast', 1]	
+Slowking	5	N	N	J	7	None	3	TRUE	9	5	0	['Kowtow Cleave', 1]	['Future Sight', 2]	['Trick Room', 1]	['Chilly Reception', 1]
+Clefable	3	N	N	J	7	None	3	FALSE	5	4	0	['Thunder Wave', 1]	['Calm Mind', 3]		
+Incineroar	2	N	N	J	7	None	3	FALSE	4	2	0	['Darkest Lariat', 1]	['Fake Out', 1]		
+Mamoswine	6	N	N	J	7	None	3	FALSE	1	0	0				
+Kingambit	1	N	N	J	7	None	3	FALSE	0	0	0				
+Mimikyu	9	N	N	J	7	None	3	FALSE	3	3	1	['Trick Room', 1]	['Shadow Claw', 1]	['Curse', 1]	
+Emolga	3	J	J	N	7	None	3	FALSE	6	5	3	['Thunderbolt', 5]			
+Hippowdon	2	J	J	N	7	None	3	FALSE	7	5	1	['Stealth Rock', 1]	['Whirlwind', 2]	['Slack Off', 2]	
+Ceruledge	4	J	J	N	7	None	3	TRUE	6	6	1	['Swords Dance', 1]	['Close Combat', 2]	['Shadow Sneak', 3]	
+Empoleon	6	J	J	N	7	None	3	FALSE	1	1	0	['Flip Turn', 1]			
+Decidueye-Hisui	8	J	J	N	7	None	3	FALSE	0	0	0				
+Alakazam	5	J	J	N	7	None	3	FALSE	2	1	1	['Focus Blast', 1]			
+Delphox	1	D	D	O	8	None	1	FALSE	7	5	2	['Flamethrower', 1]	['Psychic', 4]		
+Forretress	11	D	None	O	8	None	1	FALSE	3	2	0	['Spikes', 1]	['Volt Switch', 1]		
+Rotom-Wash	2	D	D	O	8	None	1	TRUE	4	3	1	['Hydro Pump', 1]	['Volt Switch', 1]	['Rest', 1]	
+Krookodile	7	D	D	O	8	None	1	FALSE	3	2	1	['Earthquake', 1]	['Knock Off', 1]		
+Hydreigon	3	D	D	O	8	None	1	FALSE	6	5	2	['Dark Pulse', 1]	['Dragon Pulse', 4]		
+Morpeko	10	D	D	O	8	None	1	FALSE	0	0	0				
+Politoed	7	O	O	D	8	None	1	FALSE	3	1	0	['Weather Ball', 1]			
+Sneasler	2	O	O	D	8	None	1	FALSE	6	3	0	['Dire Claw', 1]	['Fake Out', 2]		
+Milotic	3	O	O	D	8	None	1	FALSE	3	2	1	['Alluring Voice', 1]	['Surf', 1]		
+Gliscor	6	O	O	D	8	None	1	TRUE	1	1	0	['Stealth Rock', 1]			
+Scovillain	5	O	O	D	8	None	1	FALSE	4	1	0	['Energy Ball', 1]			
+Torkoal	8	O	O	D	8	None	1	FALSE	6	3	1	['Rapid Spin', 2]	['Flamethrower', 1]		
+Politoed	7	O	O	D	8	None	2	FALSE	2	0	0				
+Sneasler	2	O	O	D	8	None	2	FALSE	0	0	0				
+Milotic	3	O	O	D	8	None	2	FALSE	0	0	0				
+Gliscor	6	O	O	D	8	None	2	FALSE	1	0	0				
+Scovillain	5	O	O	D	8	None	2	FALSE	0	0	0				
+Torkoal	8	O	O	D	8	None	2	TRUE	2	1	0	['Stealth Rock', 1]			
+Delphox	1	D	D	O	8	None	2	FALSE	0	0	0				
+Forretress	11	D	None	O	8	None	2	FALSE	0	0	0				
+Rotom-Wash	2	D	D	O	8	None	2	FALSE	0	0	0				
+Krookodile	7	D	D	O	8	None	2	FALSE	0	0	0				
+Hydreigon	3	D	D	O	8	None	2	FALSE	4	3	1	['Dark Pulse', 3]			
+Morpeko	10	D	D	O	8	None	2	TRUE	1	1	0	['Volt Switch', 1]			
+Slowking-Galar	1	Gr	Gr	Z	7	None	1	FALSE	0	0	0				
+Hatterene	3	Gr	Gr	Z	7	None	1	FALSE	2	1	0	['Dazzling Gleam', 1]			
+Samurott-Hisui	4	Gr	Gr	Z	7	None	1	TRUE	7	3	2	['Sucker Punch', 3]			
+Tsareena	9	Gr	Gr	Z	7	None	1	FALSE	2	1	0	['Trop Kick', 1]			
+Skeledirge	8	Gr	Gr	Z	7	None	1	FALSE	2	0	0				
+Kangaskhan	11	Gr	None	Z	7	None	1	FALSE	2	2	0	['Fake Out', 1]	['Sucker Punch', 1]		
+Garchomp	1	Z	Z	Gr	7	None	1	FALSE	6	5	2	['Swords Dance', 1]	['Poison Jab', 1]	['Earthquake', 2]	['Protect', 1]
+Gengar	2	Z	Z	Gr	7	None	1	FALSE	0	0	0				
+Glimmora	5	Z	Z	Gr	7	None	1	FALSE	2	1	1	['Sludge Wave', 1]			
+Meowscarada	3	Z	Z	Gr	7	None	1	FALSE	2	2	1	['Knock Off', 1]	['U-turn', 1]		
+Maushold-Four	10	Z	Z	Gr	7	None	1	TRUE	3	3	0	['Population Bomb', 1]	['U-turn', 2]		
+Aerodactyl	11	Z	None	Gr	7	None	1	FALSE	2	2	2	['Crunch', 1]	['Dual Wingbeat', 1]		
+Garchomp	1	Z	Z	Gr	7	None	2	FALSE	6	6	3	['Swords Dance', 1]	['Earthquake', 3]	['Protect', 2]	
+Gengar	2	Z	Z	Gr	7	None	2	FALSE	0	0	0				
+Glimmora	5	Z	Z	Gr	7	None	2	FALSE	4	3	0	['Sludge Wave', 1]	['Power Gem', 1]	['Earth Power', 1]	
+Meowscarada	3	Z	Z	Gr	7	None	2	TRUE	2	1	1	['Knock Off', 1]			
+Maushold-Four	10	Z	Z	Gr	7	None	2	FALSE	0	0	0				
+Aerodactyl	11	Z	None	Gr	7	None	2	FALSE	8	8	2	['Crunch', 5]	['Stealth Rock', 1]	['Dual Wingbeat', 1]	['Taunt', 1]
+Slowking-Galar	1	Gr	Gr	Z	7	None	2	FALSE	6	2	0	['Future Sight', 1]	['Sludge Bomb', 1]		
+Hatterene	3	Gr	Gr	Z	7	None	2	FALSE	2	2	0	['Trick Room', 1]	['Healing Wish', 1]		
+Samurott-Hisui	4	Gr	Gr	Z	7	None	2	FALSE	3	3	1	['Aqua Cutter', 1]	['Ceaseless Edge', 1]	['Sucker Punch', 1]	
+Tsareena	9	Gr	Gr	Z	7	None	2	FALSE	2	1	0	['Triple Axel', 1]			
+Skeledirge	8	Gr	Gr	Z	7	None	2	FALSE	2	1	1	['Torch Song', 1]			
+Kangaskhan	11	Gr	None	Z	7	None	2	TRUE	5	4	0	['Fake Out', 2]	['Body Slam', 1]	['Ice Punch', 1]	
+Pelipper	9	Z	Z	J	8	None	1	FALSE	3	2	0	['U-turn', 1]	['Surf', 1]		
+Basculegion	8	Z	Z	J	8	None	1	FALSE	4	3	2	['Liquidation', 3]			
+Gengar	2	Z	Z	J	8	None	1	FALSE	0	0	0				
+Garchomp	1	Z	Z	J	8	None	1	TRUE	8	8	4	['Swords Dance', 1]	['Scale Shot', 1]	['Overheat', 1]	['Volt Switch', 1]
+Meowscarada	3	Z	Z	J	8	None	1	FALSE	0	0	0				
+Rotom-Heat	7	Z	Z	J	8	None	1	FALSE	0	0	0				
+Hippowdon	2	J	J	Z	8	None	1	FALSE	2	1	0	['Whirlwind', 1]			
+Tyrantrum	7	J	J	Z	8	None	1	FALSE	4	2	0	['Outrage', 2]			
+Empoleon	6	J	J	Z	8	None	1	FALSE	2	1	1	['Flash Cannon', 1]			
+Emolga	3	J	J	Z	8	None	1	TRUE	2	1	0	['U-turn', 1]			
+Scizor	1	J	J	Z	8	None	1	FALSE	2	1	0	['Swords Dance', 1]			
+Alakazam	5	J	J	Z	8	None	1	FALSE	3	2	0	['Trick', 1]	['Energy Ball', 1]		
+Pelipper	9	Z	Z	J	8	None	2	TRUE	12	10	4	['Weather Ball', 3]	['U-turn', 1]	['Liquidation', 3]	['Ice Fang', 1]
+Basculegion	8	Z	Z	J	8	None	2	FALSE	0	0	0				
+Gengar	2	Z	Z	J	8	None	2	FALSE	1	1	0	['Shadow Ball', 1]			
+Garchomp	1	Z	Z	J	8	None	2	FALSE	0	0	0				
+Meowscarada	3	Z	Z	J	8	None	2	FALSE	4	2	1	['Knock Off', 2]			
+Rotom-Heat	7	Z	Z	J	8	None	2	FALSE	4	2	1	['Overheat', 1]	['Volt Switch', 1]		
+Hippowdon	2	J	J	Z	8	None	2	TRUE	5	2	0	['Stealth Rock', 1]	['Whirlwind', 1]		
+Tyrantrum	7	J	J	Z	8	None	2	FALSE	2	2	0	['Head Smash', 2]			
+Empoleon	6	J	J	Z	8	None	2	FALSE	4	3	1	['Ice Beam', 3]			
+Emolga	3	J	J	Z	8	None	2	FALSE	1	0	0				
+Scizor	1	J	J	Z	8	None	2	FALSE	4	3	0	['Roost', 3]			
+Alakazam	5	J	J	Z	8	None	2	FALSE	5	3	0	['Trick', 1]	['Energy Ball', 2]		
+Dragapult	1	A	A	G	8	None	1	TRUE	3	3	2	['Draco Meteor', 1]	['U-turn', 1]	['Fire Blast', 1]	
+Excadrill	2	A	A	G	8	None	1	FALSE	3	2	1	['Rapid Spin', 1]	['Iron Head', 1]		
+Gyarados	5	A	A	G	8	None	1	FALSE	3	3	2	['Dragon Dance', 1]	['Iron Head', 1]	['Crunch', 1]	
+Tyranitar	4	A	A	G	8	None	1	FALSE	1	0	0				
+Umbreon	6	A	A	G	8	None	1	FALSE	3	3	0	['Toxic', 1]	['Protect', 2]		
+Infernape	8	A	A	G	8	None	1	FALSE	2	1	1	['Close Combat', 1]			
+Azumarill	5	G	G	A	8	None	1	FALSE	6	6	3	['Aqua Jet', 3]	['Play Rough', 2]	['Belly Drum', 1]	
+Ninetales-Alola	3	G	G	A	8	None	1	FALSE	1	0	0				
+Salazzle	11	G	None	A	8	None	1	TRUE	1	0	0				
+Starmie	8	G	G	A	8	None	1	FALSE	2	2	1	['Thunderbolt', 1]	['Scald', 1]		
+Absol	7	G	G	A	8	None	1	FALSE	2	2	0	['Knock Off', 1]	['Sucker Punch', 1]		
+Pinsir	10	G	G	A	8	None	1	FALSE	3	3	1	['Swords Dance', 1]	['Quick Attack', 2]		
+Dragapult	1	A	A	G	8	None	2	TRUE	2	2	1	['U-turn', 1]	['Shadow Ball', 1]		
+Excadrill	2	A	A	G	8	None	2	FALSE	0	0	0				
+Gyarados	5	A	A	G	8	None	2	FALSE	9	8	5	['Iron Head', 3]	['Crunch', 2]	['Dragon Dance', 1]	['Waterfall', 2]
+Tyranitar	4	A	A	G	8	None	2	FALSE	0	0	0				
+Umbreon	6	A	A	G	8	None	2	FALSE	3	2	0	['Toxic', 1]	['Protect', 1]		
+Infernape	8	A	A	G	8	None	2	FALSE	0	0	0				
+Azumarill	5	G	G	A	8	None	2	TRUE	5	4	1	['Play Rough', 3]	['Belly Drum', 1]		
+Ninetales-Alola	3	G	G	A	8	None	2	FALSE	1	0	0				
+Salazzle	11	G	None	A	8	None	2	FALSE	1	0	0				
+Starmie	8	G	G	A	8	None	2	FALSE	3	2	0	['Scald', 1]	['Thunderbolt', 1]		
+Absol	7	G	G	A	8	None	2	FALSE	1	0	0				
+Pinsir	10	G	G	A	8	None	2	FALSE	3	2	1	['Quick Attack', 2]			
+Slowking	5	N	N	S	8	None	1	FALSE	5	5	0	['Trick Room', 2]	['Future Sight', 2]	['Chilly Reception', 1]	
+Clefable	3	N	N	S	8	None	1	FALSE	2	1	1	['Calm Mind', 1]			
+Incineroar	2	N	N	S	8	None	1	FALSE	4	4	2	['Fake Out', 1]	['Darkest Lariat', 1]	['Flare Blitz', 2]	
+Mamoswine	6	N	N	S	8	None	1	TRUE	8	5	4	['Stealth Rock', 1]	['Icicle Crash', 2]	['Earthquake', 2]	
+Kingambit	1	N	N	S	8	None	1	FALSE	1	1	0	['Kowtow Cleave', 1]			
+Mimikyu	9	N	N	S	8	None	1	FALSE	3	2	0	['Trick Room', 1]	['Play Rough', 1]		
+Gardevoir	8	S	S	N	8	None	1	FALSE	3	1	0	['Aura Sphere', 1]			
+Dragonite	1	S	S	N	8	None	1	FALSE	4	3	1	['Draco Meteor', 1]	['Dragon Claw', 1]	['Earthquake', 1]	
+Trevenant	9	S	S	N	8	None	1	TRUE	2	1	0	['Leaf Storm', 1]			
+Feraligatr	3	S	S	N	8	None	1	FALSE	7	6	3	['Surf', 1]	['Hydro Pump', 4]	['Focus Blast', 1]	
+Rhyperior	4	S	S	N	8	None	1	FALSE	4	3	0	['Avalanche', 1]	['Rock Slide', 2]		
+Venusaur	2	S	S	N	8	None	1	FALSE	3	2	0	['Leaf Storm', 1]	['Giga Drain', 1]		
+Slowking	5	N	N	S	8	None	2	FALSE	12	12	0	['Future Sight', 4]	['Trick Room', 4]	['Chilly Reception', 4]	
+Clefable	3	N	N	S	8	None	2	FALSE	7	4	1	['Calm Mind', 1]	['Moonblast', 1]	['Thunder Wave', 2]	
+Incineroar	2	N	N	S	8	None	2	FALSE	3	3	1	['Parting Shot', 2]	['Fake Out', 1]		
+Mamoswine	6	N	N	S	8	None	2	TRUE	2	1	0	['Stealth Rock', 1]			
+Kingambit	1	N	N	S	8	None	2	FALSE	3	3	2	['Kowtow Cleave', 1]	['Low Kick', 2]		
+Mimikyu	9	N	N	S	8	None	2	FALSE	3	3	2	['Shadow Claw', 1]	['Play Rough', 2]		
+Gardevoir	8	S	S	N	8	None	2	TRUE	10	7	0	['Aura Sphere', 2]	['Destiny Bond', 1]	['Future Sight', 2]	['Night Shade', 2]
+Dragonite	1	S	S	N	8	None	2	FALSE	1	0	0				
+Trevenant	9	S	S	N	8	None	2	FALSE	4	3	0	['Shadow Ball', 2]	['Drain Punch', 1]		
+Feraligatr	3	S	S	N	8	None	2	FALSE	5	4	1	['Hydro Pump', 3]	['Focus Blast', 1]		
+Rhyperior	4	S	S	N	8	None	2	FALSE	8	5	0	['Hydro Pump', 2]	['Rock Slide', 3]		
+Venusaur	2	S	S	N	8	None	2	FALSE	2	2	0	['Giga Drain', 1]	['Energy Ball', 1]		
+Emolga	3	J	J	A	9	None	1	FALSE	3	3	1	['Energy Ball', 3]			
+Hippowdon	2	J	J	A	9	None	1	TRUE	4	3	1	['Stealth Rock', 1]	['Earthquake', 2]		
+Ceruledge	4	J	J	A	9	None	1	FALSE	6	6	4	['Shadow Sneak', 1]	['Swords Dance', 2]	['Close Combat', 3]	
+Empoleon	6	J	J	A	9	None	1	FALSE	0	0	0				
+Decidueye-Hisui	8	J	J	A	9	None	1	FALSE	0	0	0				
+Alakazam	5	J	J	A	9	None	1	FALSE	0	0	0				
+Dragapult	1	A	A	J	9	None	1	TRUE	5	4	1	['Draco Meteor', 3]	['U-turn', 1]		
+Excadrill	2	A	A	J	9	None	1	FALSE	0	0	0				
+Gyarados	5	A	A	J	9	None	1	FALSE	3	2	0	['Dragon Dance', 1]	['Waterfall', 1]		
+Tyranitar	4	A	A	J	9	None	1	FALSE	3	2	1	['Knock Off', 2]			
+Umbreon	6	A	A	J	9	None	1	FALSE	1	0	0				
+Infernape	8	A	A	J	9	None	1	FALSE	1	0	0				
+Dragapult	1	A	A	J	9	None	2	TRUE	3	3	1	['Draco Meteor', 1]	['U-turn', 1]	['Fire Blast', 1]	
+Excadrill	2	A	A	J	9	None	2	FALSE	2	1	1	['Earthquake', 1]			
+Gyarados	5	A	A	J	9	None	2	FALSE	4	4	2	['Dragon Dance', 1]	['Waterfall', 1]	['Crunch', 1]	['Iron Head', 1]
+Tyranitar	4	A	A	J	9	None	2	FALSE	3	2	2	['Knock Off', 1]	['Rock Slide', 1]		
+Umbreon	6	A	A	J	9	None	2	FALSE	0	0	0				
+Infernape	8	A	A	J	9	None	2	FALSE	0	0	0				
+Emolga	3	J	J	A	9	None	2	FALSE	1	1	0	['Energy Ball', 1]			
+Hippowdon	2	J	J	A	9	None	2	TRUE	3	1	0	['Earthquake', 1]			
+Ceruledge	4	J	J	A	9	None	2	FALSE	1	1	0	['Close Combat', 1]			
+Empoleon	6	J	J	A	9	None	2	FALSE	2	1	0	['Surf', 1]			
+Decidueye-Hisui	8	J	J	A	9	None	2	FALSE	4	3	1	['Triple Arrows', 2]	['U-turn', 1]		
+Alakazam	5	J	J	A	9	None	2	FALSE	1	0	0				
+Dragapult	1	A	A	J	9	None	3	FALSE	4	3	0	['Draco Meteor', 1]	['U-turn', 1]	['Fire Blast', 1]	
+Excadrill	2	A	A	J	9	None	3	FALSE	2	1	0	['Earthquake', 1]			
+Gyarados	5	A	A	J	9	None	3	TRUE	6	4	2	['Crunch', 3]	['Dragon Dance', 1]		
+Tyranitar	4	A	A	J	9	None	3	FALSE	3	2	1	['Rock Slide', 2]			
+Umbreon	6	A	A	J	9	None	3	FALSE	24	21	1	['Wish', 11]	['Foul Play', 7]	['Toxic', 2]	['Protect', 1]
+Infernape	8	A	A	J	9	None	3	FALSE	4	4	2	['Flare Blitz', 4]			
+Emolga	3	J	J	A	9	None	3	FALSE	10	6	1	['Energy Ball', 1]	['Air Slash', 2]	['Thunderbolt', 3]	
+Hippowdon	2	J	J	A	9	None	3	FALSE	14	13	0	['Stealth Rock', 1]	['Earthquake', 6]	['Whirlwind', 1]	['Slack Off', 5]
+Ceruledge	4	J	J	A	9	None	3	FALSE	1	1	0	['Close Combat', 1]			
+Empoleon	6	J	J	A	9	None	3	FALSE	11	8	0	['Surf', 4]	['Ice Beam', 1]	['Roost', 2]	['Flip Turn', 1]
+Decidueye-Hisui	8	J	J	A	9	None	3	FALSE	6	4	3	['Triple Arrows', 4]			
+Alakazam	5	J	J	A	9	None	3	TRUE	1	1	0	['Psychic', 1]			
+Primarina	6	B	B	S	9	None	1	FALSE	7	7	3	['Calm Mind', 2]	['Ice Beam', 1]	['Draining Kiss', 2]	['Surf', 2]
+Aegislash	2	B	B	S	9	None	1	FALSE	1	1	1	['Shadow Ball', 1]			
+Archaludon	5	B	B	S	9	None	1	FALSE	4	3	1	['Draco Meteor', 3]			
+Hawlucha	8	B	B	S	9	None	1	FALSE	0	0	0				
+Charizard	1	B	B	S	9	None	1	FALSE	2	1	0	['Earthquake', 1]			
+Whimsicott	7	B	B	S	9	None	1	TRUE	5	4	1	['Tailwind', 1]	['Giga Drain', 2]	['Leech Seed', 1]	
+Feraligatr	3	S	S	B	9	None	1	FALSE	3	2	0	['Dragon Claw', 1]	['Brick Break', 1]		
+Gardevoir	8	S	S	B	9	None	1	FALSE	2	2	1	['Future Sight', 1]	['Destiny Bond', 1]		
+Dragonite	1	S	S	B	9	None	1	FALSE	2	2	0	['Thunderbolt', 2]			
+Rhyperior	4	S	S	B	9	None	1	TRUE	4	2	1	['Avalanche', 2]			
+Camerupt	5	S	S	B	9	None	1	FALSE	7	4	1	['Flamethrower', 1]	['Stone Edge', 1]	['Fire Blast', 2]	
+Venusaur	2	S	S	B	9	None	1	FALSE	1	1	0	['Energy Ball', 1]			
+Primarina	6	B	B	S	9	None	2	FALSE	3	3	2	['Calm Mind', 1]	['Ice Beam', 2]		
+Aegislash	2	B	B	S	9	None	2	FALSE	0	0	0				
+Archaludon	5	B	B	S	9	None	2	FALSE	0	0	0				
+Hawlucha	8	B	B	S	9	None	2	FALSE	0	0	0				
+Charizard	1	B	B	S	9	None	2	FALSE	7	7	5	['Dragon Dance', 1]	['Dragon Claw', 3]	['Flare Blitz', 1]	['Earthquake', 2]
+Whimsicott	7	B	B	S	9	None	2	TRUE	2	1	0	['Tailwind', 1]			
+Feraligatr	3	S	S	B	9	None	2	FALSE	1	0	0				
+Gardevoir	8	S	S	B	9	None	2	FALSE	1	0	0				
+Dragonite	1	S	S	B	9	None	2	FALSE	2	1	0	['Blizzard', 1]			
+Rhyperior	4	S	S	B	9	None	2	FALSE	3	2	0	['Rock Slide', 1]	['Body Slam', 1]		
+Camerupt	5	S	S	B	9	None	2	FALSE	1	0	0				
+Venusaur	2	S	S	B	9	None	2	TRUE	4	3	0	['Giga Drain', 2]	['Energy Ball', 1]		
+Maushold-Four	10	Z	Z	D	9	None	1	FALSE	1	0	0				
+Garchomp	1	Z	Z	D	9	None	1	FALSE	5	4	1	['Scale Shot', 3]	['Swords Dance', 1]		
+Meowscarada	3	Z	Z	D	9	None	1	TRUE	12	8	0	['Play Rough', 1]	['Flower Trick', 6]	['Sucker Punch', 1]	
+Rotom-Heat	7	Z	Z	D	9	None	1	FALSE	5	4	1	['Overheat', 1]	['Thunder Wave', 1]	['Volt Switch', 2]	
+Glimmora	5	Z	Z	D	9	None	1	FALSE	2	1	0	['Power Gem', 1]			
+Gengar	2	Z	Z	D	9	None	1	FALSE	2	1	1	['Shadow Ball', 1]			
+Delphox	1	D	D	Z	9	None	1	FALSE	5	4	2	['Psychic', 3]	['Flamethrower', 1]		
+Hydreigon	3	D	D	Z	9	None	1	TRUE	4	3	0	['U-turn', 2]	['Draco Meteor', 1]		
+Rotom-Wash	2	D	D	Z	9	None	1	FALSE	5	3	0	['Hydro Pump', 1]	['Will-O-Wisp', 2]		
+Toxapex	6	D	D	Z	9	None	1	FALSE	4	2	0	['Infestation', 1]	['Protect', 1]		
+Forretress	11	D	None	Z	9	None	1	FALSE	6	4	2	['Volt Switch', 1]	['Spikes', 1]	['Body Press', 2]	
+Krookodile	7	D	D	Z	9	None	1	FALSE	3	2	2	['Earthquake', 1]	['Close Combat', 1]		
+Maushold-Four	10	Z	Z	D	9	None	2	TRUE	2	0	0				
+Garchomp	1	Z	Z	D	9	None	2	FALSE	5	5	1	['Swords Dance', 2]	['Scale Shot', 2]	['Rock Slide', 1]	
+Meowscarada	3	Z	Z	D	9	None	2	FALSE	8	5	1	['Thunder Punch', 3]	['Sucker Punch', 2]		
+Rotom-Heat	7	Z	Z	D	9	None	2	FALSE	7	5	1	['Will-O-Wisp', 1]	['Thunder Wave', 1]	['Volt Switch', 2]	['Overheat', 1]
+Glimmora	5	Z	Z	D	9	None	2	FALSE	3	2	2	['Power Gem', 1]	['Dazzling Gleam', 1]		
+Gengar	2	Z	Z	D	9	None	2	FALSE	1	0	0				
+Delphox	1	D	D	Z	9	None	2	FALSE	7	3	3	['Psychic', 2]	['Flamethrower', 1]		
+Hydreigon	3	D	D	Z	9	None	2	TRUE	4	3	1	['U-turn', 1]	['Draco Meteor', 1]	['Dark Pulse', 1]	
+Rotom-Wash	2	D	D	Z	9	None	2	FALSE	2	1	0	['Will-O-Wisp', 1]			
+Toxapex	6	D	D	Z	9	None	2	FALSE	6	3	0	['Protect', 1]	['Toxic', 1]	['Recover', 1]	
+Forretress	11	D	None	Z	9	None	2	FALSE	2	1	0	['Volt Switch', 1]			
+Krookodile	7	D	D	Z	9	None	2	FALSE	5	4	1	['Stealth Rock', 1]	['Knock Off', 1]	['Earthquake', 2]	
+Slowking-Galar	1	Gr	Gr	G	9	None	1	FALSE	5	5	2	['Future Sight', 1]	['Trick Room', 1]	['Sludge Bomb', 2]	['Chilly Reception', 1]
+Hatterene	3	Gr	Gr	G	9	None	1	FALSE	1	1	0	['Healing Wish', 1]			
+Samurott-Hisui	4	Gr	Gr	G	9	None	1	FALSE	0	0	0				
+Tsareena	9	Gr	Gr	G	9	None	1	FALSE	1	1	0	['Rapid Spin', 1]			
+Skeledirge	8	Gr	Gr	G	9	None	1	FALSE	2	1	0	['Torch Song', 1]			
+Kangaskhan	11	Gr	None	G	9	None	1	TRUE	12	9	4	['Fake Out', 4]	['Last Resort', 5]		
+Starmie	8	G	G	Gr	9	None	1	FALSE	4	2	1	['Psychic', 2]			
+Pinsir	10	G	G	Gr	9	None	1	FALSE	8	6	2	['Body Slam', 5]	['Rock Slide', 1]		
+Arcanine-Hisui	11	G	G	Gr	9	None	1	FALSE	1	1	0	['Close Combat', 1]			
+Froslass	6	G	G	Gr	9	None	1	FALSE	4	4	0	['Spikes', 3]	['Destiny Bond', 1]		
+Ninetales-Alola	3	G	G	Gr	9	None	1	TRUE	3	1	0	['Aurora Veil', 1]			
+Azumarill	5	G	G	Gr	9	None	1	FALSE	1	1	0	['Belly Drum', 1]			
+Slowking-Galar	1	Gr	Gr	G	9	None	2	FALSE	4	3	1	['Sludge Bomb', 2]	['Future Sight', 1]		
+Hatterene	3	Gr	Gr	G	9	None	2	FALSE	2	1	1	['Psychic', 1]			
+Samurott-Hisui	4	Gr	Gr	G	9	None	2	FALSE	2	1	1	['Aqua Cutter', 1]			
+Tsareena	9	Gr	Gr	G	9	None	2	FALSE	2	1	0	['Trop Kick', 1]			
+Skeledirge	8	Gr	Gr	G	9	None	2	TRUE	3	2	0	['Hex', 1]	['Torch Song', 1]		
+Kangaskhan	11	Gr	None	G	9	None	2	FALSE	4	4	3	['Fake Out', 1]	['Last Resort', 3]		
+Starmie	8	G	G	Gr	9	None	2	FALSE	1	1	0	['Thunderbolt', 1]			
+Pinsir	10	G	G	Gr	9	None	2	FALSE	2	2	0	['Body Slam', 2]			
+Arcanine-Hisui	11	G	G	Gr	9	None	2	FALSE	2	2	1	['Head Smash', 2]			
+Froslass	6	G	G	Gr	9	None	2	FALSE	2	1	1	['Blizzard', 1]			
+Ninetales-Alola	3	G	G	Gr	9	None	2	TRUE	6	5	0	['Aurora Veil', 1]	['Moonblast', 1]	['Freeze-Dry', 1]	['Blizzard', 2]
+Azumarill	5	G	G	Gr	9	None	2	FALSE	4	3	0	['Play Rough', 1]	['Belly Drum', 1]	['Aqua Jet', 1]	
+Slowking	5	N	N	O	9	None	1	FALSE	12	10	0	['Trick Room', 4]	['Chilly Reception', 2]	['Future Sight', 3]	['Slack Off', 1]
+Clefable	3	N	N	O	9	None	1	FALSE	6	5	1	['Thunder Wave', 1]	['Moonblast', 3]	['Moonlight', 1]	
+Incineroar	2	N	N	O	9	None	1	FALSE	0	0	0				
+Mamoswine	6	N	N	O	9	None	1	TRUE	4	3	2	['Icicle Crash', 1]	['Earthquake', 1]	['Stealth Rock', 1]	
+Kingambit	1	N	N	O	9	None	1	FALSE	2	2	2	['Kowtow Cleave', 2]			
+Mimikyu	9	N	N	O	9	None	1	FALSE	1	1	1	['Curse', 1]			
+Politoed	7	O	O	N	9	None	1	FALSE	8	5	2	['Weather Ball', 5]			
+Sneasler	2	O	O	N	9	None	1	FALSE	2	2	0	['Swords Dance', 1]	['Dire Claw', 1]		
+Milotic	3	O	O	N	9	None	1	FALSE	11	8	1	['Alluring Voice', 5]	['Surf', 3]		
+Gliscor	6	O	O	N	9	None	1	TRUE	1	1	0	['Knock Off', 1]			
+Scovillain	5	O	O	N	9	None	1	FALSE	1	0	0				
+Torkoal	8	O	O	N	9	None	1	FALSE	2	2	0	['Stealth Rock', 1]	['Flamethrower', 1]		
+Politoed	7	O	O	N	9	None	2	FALSE	1	1	0	['Weather Ball', 1]			
+Sneasler	2	O	O	N	9	None	2	TRUE	5	5	1	['Fake Out', 1]	['Swords Dance', 1]	['Dire Claw', 3]	
+Milotic	3	O	O	N	9	None	2	FALSE	1	1	0	['Surf', 1]			
+Gliscor	6	O	O	N	9	None	2	FALSE	5	5	0	['Knock Off', 1]	['Stealth Rock', 1]	['U-turn', 2]	['Spikes', 1]
+Scovillain	5	O	O	N	9	None	2	FALSE	2	2	0	['Solar Beam', 2]			
+Torkoal	8	O	O	N	9	None	2	FALSE	5	4	0	['Flamethrower', 4]			
+Slowking	5	N	N	O	9	None	2	FALSE	2	1	0	['Future Sight', 1]			
+Clefable	3	N	N	O	9	None	2	FALSE	13	13	5	['Calm Mind', 2]	['Moonblast', 9]	['Moonlight', 2]	
+Incineroar	2	N	N	O	9	None	2	FALSE	0	0	0				
+Mamoswine	6	N	N	O	9	None	2	TRUE	2	0	0				
+Kingambit	1	N	N	O	9	None	2	FALSE	0	0	0				
+Mimikyu	9	N	N	O	9	None	2	FALSE	2	1	1	['Play Rough', 1]			
