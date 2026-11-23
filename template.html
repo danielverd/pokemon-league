@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pokémon Draft League · Player Stats</title>
+<style>
+:root{--bg:#eee;--card:#fff;--ink:#121212;--mut:#666;--line:#d9d9d9;--hi:#f5f5f5;--red:#d00;color-scheme:light}
+@media(prefers-color-scheme:dark){:root{--bg:#101010;--card:#1b1b1b;--ink:#f2f2f2;--mut:#9b9b9b;--line:#333;--hi:#262626;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.4 "Helvetica Neue",Arial,sans-serif}
+.top{background:#000;color:#fff;border-bottom:3px solid var(--red)}
+.top div{max-width:1100px;margin:auto;padding:0 16px;display:flex;align-items:center;gap:20px;height:52px}
+.logo{background:var(--red);font:900 18px Impact,"Arial Narrow",sans-serif;padding:4px 8px;letter-spacing:1px}
+.top nav{display:flex;gap:6px;height:100%}.top nav button{background:none;border:0;border-bottom:3px solid transparent;color:#aaa;font:700 13px inherit;font-family:inherit;padding:0 10px;cursor:pointer;margin-bottom:-3px}.top nav .on{color:#fff;border-bottom-color:var(--red)}
+main{max-width:1100px;margin:auto;padding:20px 16px 40px}
+h1{font:900 34px Impact,"Arial Narrow",sans-serif;text-transform:uppercase;margin:0 0 4px;letter-spacing:.5px}
+.sub{color:var(--mut);margin:0 0 18px}
+.leaders{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px;margin-bottom:18px}
+.lc{background:var(--card);border-top:3px solid var(--red);padding:10px 12px}
+.lc h3{margin:0 0 6px;font-size:13px}
+.lc ul{margin:0;padding:0}
+.lc li{display:flex;justify-content:space-between;gap:8px;padding:3px 0;list-style:none;border-top:1px solid var(--line)}
+.lc b{font-size:15px}.lc li:first-child span{font-weight:700}
+.bar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+input,select{font:inherit;padding:7px 10px;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:3px}
+input{flex:1;min-width:160px}
+.wrap{background:var(--card);overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:900px}
+th,td{padding:8px 10px;text-align:right;white-space:nowrap}
+.L{text-align:left}.sp{width:36px;height:36px;object-fit:contain;vertical-align:middle;margin:-6px 8px -6px 0;image-rendering:auto}
+th{background:#000;color:#fff;font-size:12px;cursor:pointer;user-select:none}
+th.s{background:var(--red)}
+tr.r{border-bottom:1px solid var(--line);cursor:pointer}
+tr.r:hover,tr.r.o{background:var(--hi)}
+td.rk{color:var(--mut);width:36px}td.n{font-weight:700}td.k{font-weight:800}
+.tag{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+.d td{text-align:left;white-space:normal;background:var(--hi);padding:12px 16px}
+.dg{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.dg h4{margin:0 0 6px;font-size:12px;color:var(--mut)}
+.mv{display:flex;align-items:center;gap:8px;margin:3px 0}
+.mv i{display:block;height:8px;background:var(--red);border-radius:2px}
+.mv span{min-width:110px}
+.empty{padding:24px;text-align:center;color:var(--mut)}
+footer{margin-top:14px;color:var(--mut);font-size:12px}
+:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+</style></head><body>
+<header class="top"><div><span class="logo">PDL</span><nav id="nav"><button data-v="players" class="on">PLAYERS</button><button data-v="teams">TEAMS</button><button data-v="draft">DRAFT</button></nav></div></header>
+<main>
+<h1 id="ttl">Player Stats</h1>
+<p class="sub" id="sub"></p>
+<section class="leaders" id="leaders"></section>
+<div class="bar">
+<input id="q" type="search" placeholder="Search Pokémon" aria-label="Search Pokémon">
+<select id="tm" aria-label="Team"></select>
+<select id="rd" aria-label="Regular season round"></select>
+<select id="dv" aria-label="Draft round"></select>
+<select id="mg" aria-label="Minimum games played"><option value="0">All players</option><option value="5">5+ games played</option><option value="10">10+ games played</option></select>
+</div>
+<div class="wrap"><table><thead id="h"></thead><tbody id="b"></tbody></table></div>
+<footer>RD draft round (FA free agent) · GP appearances on the six-Pokémon roster · GS games started (lead) · W-L for a Pokémon, its team’s result in the games it was rostered for · TEAMS: W-L is the match record (best of three), GW-GL the game record · TRN turns on the field · MV moves used · KO knockouts. Click a row for more: a Pokémon opens its game log, a team or draft round filters the player list.<br>Unofficial fan project, not affiliated with Nintendo, Game Freak or The Pokémon Company. Sprites from Pokémon Showdown.</footer>
+</main>
+<script>
+const D=__DATA__,O=D.owners,P=D.players;
+// ===== ADVANCED STATS: add your own metrics here =====
+// fn receives `s`, the basic stats of one table row, and returns a number. A metric shows up as a sortable
+// column in every view listed in `views`. Fields on s:
+//   all views: gp (roster appearances), gs, turns, moves, ko, w, l
+//   players: w, l = game record while rostered.  draft: sums of those over its Pokémon.
+//   teams: w, l = match record; also gw, gl (games), pkmn (Pokémon used)
+const ADV=[
+ // {k:"kp10",label:"KO/10T",views:["players","teams","draft"],dec:2,fn:s=>s.turns?10*s.ko/s.turns:0},
+];
+// ======================================================
+const $=id=>document.getElementById(id),f=(v,n=0)=>v.toFixed(n),sum=(L,k)=>L.reduce((a,g)=>a+g[k],0);
+const pc=(w,l)=>w+l?(w/(w+l)).toFixed(3).replace(/^0/,""):"–";
+const hue=t=>`hsl(${[...t].reduce((a,c)=>a*31+c.charCodeAt(0),7)*47%360} 70% 50%)`;
+const tag=o=>`<i class="tag" style="background:${hue(o)}"></i>${O[o]}`;
+const SP=["https://play.pokemonshowdown.com/sprites/dex/","https://play.pokemonshowdown.com/sprites/gen5/","https://play.pokemonshowdown.com/sprites/ani/"],EX=[".png",".png",".gif"];
+const HY=["Ho-Oh","Porygon-Z","Jangmo-o","Hakamo-o","Kommo-o","Wo-Chien","Chien-Pao","Ting-Lu","Chi-Yu"];
+const key=n=>{const h=HY.find(x=>n.startsWith(x)),b=h||n.split("-")[0],r=n.slice(b.length);return b.toLowerCase().replace(/[^a-z0-9]/g,"")+r.toLowerCase().replace(/[^a-z0-9-]/g,"")};
+const img=n=>`<img class="sp" loading="lazy" alt="" src="${SP[0]}${key(n)}${EX[0]}" data-k="${key(n)}" data-i="0">`;
+document.addEventListener("error",e=>{const t=e.target;if(t.className!="sp")return;const i=+t.dataset.i+1;if(i<SP.length){t.dataset.i=i;t.src=SP[i]+t.dataset.k+EX[i]}else t.style.visibility="hidden"},true);
+const rounds=[...new Set(P.flatMap(p=>p.log.map(g=>g.r)))].sort((a,b)=>a-b),drs=[...new Set(P.filter(p=>p.by).map(p=>p.dr))].sort((a,b)=>a-b);
+let view="players",open=null,SV={players:{k:"ko",d:-1},teams:{k:"w",d:-1},draft:{k:"rd",d:1}};
+$("sub").textContent=`${P.length} Pokémon · ${Object.keys(O).length} teams · ${D.games.length} games · Rounds ${rounds[0]}–${rounds[rounds.length-1]}`;
+$("tm").innerHTML='<option value="all">All teams</option>'+Object.entries(O).map(([i,n])=>`<option value="${i}">${n}</option>`).join("");
+$("rd").innerHTML='<option value="all">Full season</option>'+rounds.map(r=>`<option value="${r}">Round ${r}</option>`).join("");
+$("dv").innerHTML='<option value="all">All draft rounds</option>'+drs.map(r=>`<option value="${r}">Draft round ${r}</option>`).join("")+'<option value="FA">Free agents</option>';
+function stat(p,rd){const L=p.log.filter(g=>rd=="all"||g.r==rd),gp=L.length,w=L.filter(g=>g.w).length,ko=sum(L,"k"),turns=sum(L,"t");
+ return{...p,id:p.name,L,gp,gs:sum(L,"l"),w,l:gp-w,pct:gp?w/gp:0,turns,moves:sum(L,"m"),ko,kg:gp?ko/gp:0,kt:turns?ko/turns:0}}
+function standings(rd){const gs=D.games.filter(g=>rd=="all"||g.r==rd),M={},T={},t=o=>T[o]=T[o]||{w:0,l:0,gw:0,gl:0};
+ gs.forEach(g=>{const m=M[g.r+"|"+g.a+"|"+g.b]=M[g.r+"|"+g.a+"|"+g.b]||{a:g.a,b:g.b,wa:0,wb:0},lo=g.w==g.a?g.b:g.a;
+  g.w==g.a?m.wa++:m.wb++;t(g.w).gw++;t(lo).gl++});
+ Object.values(M).forEach(m=>{if(m.wa!=m.wb){const[w,l]=m.wa>m.wb?[m.a,m.b]:[m.b,m.a];T[w].w++;T[l].l++}});return T}
+function tally(A,keyf,fields){const m={};A.forEach(p=>{const k=keyf(p),g=m[k]=m[k]||{id:String(k),k,pkmn:0,best:p,...Object.fromEntries(fields.map(x=>[x,0]))};
+ g.pkmn++;fields.forEach(x=>g[x]+=p[x]);if(p.ko>g.best.ko)g.best=p});return Object.values(m)}
+function teamRows(A,rd){const T=standings(rd);
+ return tally(A,p=>p.owner,["gp","gs","turns","moves","ko"]).map(g=>{const t=T[g.k]||{w:0,l:0,gw:0,gl:0},n=t.gw+t.gl;
+  return{...g,...t,diff:t.gw-t.gl,pct:t.w+t.l?t.w/(t.w+t.l):0,kg:n?g.ko/n:0}})}
+const draftRows=A=>tally(A,p=>p.by?p.dr:99,["gp","gs","w","l","turns","moves","ko"]).map(g=>({...g,pct:g.w+g.l?g.w/(g.w+g.l):0,kg:g.gp?g.ko/g.gp:0,kpp:g.ko/g.pkmn}));
+const best=g=>`${img(g.best.name)}${g.best.name} (${g.best.ko})`;
+const VIEWS={
+ players:[["name","PLAYER",p=>img(p.name)+p.name,1,1],["owner","TEAM",p=>tag(p.owner),1],["dr","RD",p=>p.by?p.dr:"FA",1],["gp","GP",p=>p.gp],["gs","GS",p=>p.gs],["w","W",p=>p.w],["l","L",p=>p.l],["pct","PCT",p=>pc(p.w,p.l)],["turns","TRN",p=>p.turns],["moves","MV",p=>p.moves],["ko","KO",p=>p.ko],["kg","KO/G",p=>f(p.kg,2)],["kt","KO/TRN",p=>f(p.kt,2)]],
+ teams:[["owner","TEAM",g=>tag(g.k),1,1],["w","W",g=>g.w],["l","L",g=>g.l],["pct","PCT",g=>pc(g.w,g.l)],["gw","GW",g=>g.gw],["gl","GL",g=>g.gl],["diff","DIFF",g=>(g.diff>0?"+":"")+g.diff],["pkmn","PKMN",g=>g.pkmn],["ko","KO",g=>g.ko],["kg","KO/G",g=>f(g.kg,2)],["bk","TOP KO",best,1]],
+ draft:[["rd","DRAFT SLOT",g=>g.k==99?"Free agents":"Round "+g.k,1,1],["pkmn","PKMN",g=>g.pkmn],["gp","GP",g=>g.gp],["w","W",g=>g.w],["l","L",g=>g.l],["pct","PCT",g=>pc(g.w,g.l)],["ko","KO",g=>g.ko],["kg","KO/GP",g=>f(g.kg,2)],["kpp","KO/PKMN",g=>f(g.kpp,1)],["bk","TOP KO",best,1]]};
+const cols=()=>VIEWS[view].concat(ADV.filter(a=>a.views.includes(view)).map(a=>[a.k,a.label,x=>f(x[a.k],a.dec??2)]));
+const SK={owner:g=>g.k,rd:g=>g.k,bk:g=>g.best.ko,name:p=>p.name,dr:p=>p.by?p.dr:99};
+function rows(A,rd){
+ if(view=="teams")return teamRows(A,rd);
+ if(view=="draft")return draftRows(A);
+ const q=$("q").value.toLowerCase(),tm=$("tm").value,dv=$("dv").value,mg=+$("mg").value;
+ return A.filter(p=>(tm=="all"||p.owner==tm)&&p.name.toLowerCase().includes(q)&&p.gp>=mg&&(dv=="all"||(dv=="FA"?!p.by:p.by&&p.dr==dv)))}
+function detail(p){const mx=Math.max(1,...p.moveList.map(m=>m[1]));
+ const src=p.by?`Drafted in round ${p.dr} by ${O[p.by]||p.by}${p.by!=p.owner?`, now with ${O[p.owner]}`:""}`:"Free agent pickup";
+ return `<tr class="d"><td colspan="20"><p>${src}</p><div class="dg"><div><h4>GAME LOG</h4>${p.L.map(g=>`<div>R${g.r} vs ${O[g.o]}, game ${g.n} (${g.w?"W":"L"}): ${g.t} turns, ${g.m} moves, ${g.k} KO${g.l?", lead":""}</div>`).join("")}</div>
+ <div><h4>MOVES USED, FULL SEASON</h4>${p.moveList.length?p.moveList.map(([m,c])=>`<div class="mv"><span>${m}</span><i style="width:${c/mx*100}px"></i>${c}</div>`).join(""):"No moves recorded"}</div></div></td></tr>`}
+function leaders(A,rd){const m=rd=="all"?5:1;
+ const L=[["Knockouts","ko",0,0],[`KO per game (${m}+ GP)`,"kg",2,m],["Wins","w",0,0],[`Win % (${m}+ GP)`,"pct",3,m]];
+ $("leaders").innerHTML=L.map(([t,k,d,mn])=>`<div class="lc"><h3>${t}</h3><ul>${A.filter(p=>p.gp>=mn).sort((a,b)=>b[k]-a[k]||b.ko-a.ko).slice(0,3)
+  .map(p=>`<li><span>${img(p.name)}${p.name} <small>${O[p.owner]}</small></span><b>${k=="pct"?pc(p.w,p.l):f(p[k],d)}</b></li>`).join("")}</ul></div>`).join("")}
+function draw(){
+ const rd=$("rd").value,C=cols(),S=SV[view],A=P.map(p=>stat(p,rd)).filter(p=>p.L.length);
+ ["q","tm","dv","mg"].forEach(i=>$(i).hidden=view!="players");
+ document.querySelectorAll("#nav button").forEach(b=>b.classList.toggle("on",b.dataset.v==view));
+ $("ttl").textContent={players:"Player Stats",teams:"Standings",draft:"Draft Round Stats"}[view];
+ leaders(A,rd);
+ const R=rows(A,rd);R.forEach(x=>ADV.forEach(a=>{if(a.views.includes(view))x[a.k]=a.fn(x)}));
+ const sk=SK[S.k]||(r=>r[S.k]),r=R.sort((a,b)=>{const x=sk(a),y=sk(b);return(typeof x=="string"?x.localeCompare(y):x-y)*S.d||(b.diff||0)-(a.diff||0)||b.ko-a.ko});
+ $("h").innerHTML='<tr><th class="L">RK</th>'+C.map(([k,l,,L])=>`<th class="${L?"L ":""}${S.k==k?"s":""}" data-k="${k}">${l}</th>`).join("")+"</tr>";
+ $("b").innerHTML=r.length?r.map((p,i)=>`<tr class="r${open==p.id?" o":""}" data-id="${p.id}" tabindex="0"><td class="rk L">${i+1}</td>`+C.map(([k,,fn,L,c])=>`<td class="${L?"L":""}${c?" n":""}${k=="ko"?" k":""}">${fn(p)}</td>`).join("")+"</tr>"+(view=="players"&&open==p.id?detail(p):"")).join("")
+  :`<tr><td colspan="20" class="empty">No Pokémon match these filters. Clear the search, or choose All teams, All draft rounds or Full season.</td></tr>`}
+$("h").onclick=e=>{const k=e.target.dataset.k;if(!k)return;const S=SV[view];SV[view]=S.k==k?{k,d:-S.d}:{k,d:cols().find(c=>c[0]==k)[3]?1:-1};draw()};
+$("b").onclick=e=>{const r=e.target.closest("tr.r");if(!r)return;const id=r.dataset.id;
+ if(view=="teams"){$("tm").value=id;$("dv").value="all";$("q").value="";view="players"}
+ else if(view=="draft"){$("dv").value=id=="99"?"FA":id;$("tm").value="all";$("q").value="";view="players"}
+ else open=open==id?null:id;draw()};
+$("b").onkeydown=e=>{if(e.key=="Enter")e.target.click()};
+$("nav").onclick=e=>{if(e.target.dataset.v){view=e.target.dataset.v;draw()}};
+["q","tm","rd","dv","mg"].forEach(i=>$(i).oninput=draw);
+draw();
+</script></body></html>

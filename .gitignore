@@ -1,5 +1,15 @@
 # Omit game files with potentially identifying information
 completed-files/*.txt
+index.html
+
+# Private display names and the build that uses them (never publish)
+names.local.json
+index.private.html
+sheet.local.json
+
+# Old versions of statsheets from before fetch.py was added
+PokemonLeague_statsheet*
+!PokemonLeague_statsheet.tsv
 
 # Prerequisites
 *.d
