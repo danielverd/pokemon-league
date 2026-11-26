@@ -5,7 +5,7 @@
 A stats dashboard for a ten-player Pokémon draft league. Every Pokémon, team and draft round can be sorted,
 filtered by regular-season round, and drilled into for a per-game log.
 
-<!-- TODO: add a screenshot, e.g. docs/screenshot.png -->
+[![Dashboard showing player stats for the Pokémon draft league](docs/screenshot.png)](https://danielverd.github.io/pokemon-league/)
 
 ## How it works
 
@@ -67,7 +67,14 @@ const ADV=[
 `fn` receives one table row's basic stats (`gp`, `gs`, `turns`, `moves`, `ko`, `w`, `l`, plus `gw`, `gl`,
 `pkmn` in the team view) and returns a number.
 
+## How this was built
+
+The league, data collection and stat definitions are mine, as is the original game scraper.
+I used Claude Code (Anthropic's AI coding assistant) to help write the build pipeline, the
+GitHub Actions deployment, the Google Sheets fetch script and this README. I reviewed,
+tested and adjusted that code, and I can explain it all.
+
 ## Disclaimer
 
 Unofficial fan project, not affiliated with Nintendo, Game Freak or The Pokémon Company. Sprites are loaded from
-[Pokémon Showdown](https://play.pokemonshowdown.com/).
+[Pokémon Showdown](https://play.pokemonshowdown.com/). 
